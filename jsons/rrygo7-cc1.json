@@ -1,0 +1,421 @@
+{
+  "title": "rrygo7-cc1",
+  "cards": [
+    {
+      "id": 82065276,
+      "name": "Oscillo Hero"
+    },
+    {
+      "id": 8508055,
+      "name": "Chu-Ske the Mouse Fighter"
+    },
+    {
+      "id": 7089711,
+      "name": "Hane-Hane"
+    },
+    {
+      "id": 23923758,
+      "name": "Steam Knight - Hamburk"
+    },
+    {
+      "id": 17192817,
+      "name": "Molten Behemoth"
+    },
+    {
+      "id": 732302,
+      "name": "Temple of Skulls"
+    },
+    {
+      "id": 97360116,
+      "name": "Unknown Warrior of Fiend"
+    },
+    {
+      "id": 20060230,
+      "name": "Hard Armor"
+    },
+    {
+      "id": 17814387,
+      "name": "Reinforcements"
+    },
+    {
+      "id": 62397231,
+      "name": "Hyozanryu"
+    },
+    {
+      "id": 15401633,
+      "name": "Kagemusha of the Blue Flame"
+    },
+    {
+      "id": 4392470,
+      "name": "Leo Wizard"
+    },
+    {
+      "id": 73431236,
+      "name": "Iron Blacksmith Kotetsu"
+    },
+    {
+      "id": 9076207,
+      "name": "Armed Ninja"
+    },
+    {
+      "id": 14618326,
+      "name": "Crimson Ninja"
+    },
+    {
+      "id": 86198326,
+      "name": "7 Completed"
+    },
+    {
+      "id": 74848038,
+      "name": "Monster Reincarnation"
+    },
+    {
+      "id": 52097679,
+      "name": "Shield & Sword"
+    },
+    {
+      "id": 63102017,
+      "name": "Stop Defense"
+    },
+    {
+      "id": 85742772,
+      "name": "Gravity Bind"
+    },
+    {
+      "id": 82099401,
+      "name": "Crystal Seer"
+    },
+    {
+      "id": 27671321,
+      "name": "Lightning Conger"
+    },
+    {
+      "id": 16430187,
+      "name": "The Reliable Guardian"
+    },
+    {
+      "id": 37120512,
+      "name": "Sword of Dark Destruction"
+    },
+    {
+      "id": 84257639,
+      "name": "Dian Keto the Cure Master"
+    },
+    {
+      "id": 19523799,
+      "name": "Ookazi"
+    },
+    {
+      "id": 51394546,
+      "name": "Cemetary Bomb"
+    },
+    {
+      "id": 24068492,
+      "name": "Just Desserts"
+    },
+    {
+      "id": 34100324,
+      "name": "Harpie Girl"
+    },
+    {
+      "id": 75889523,
+      "name": "Archfiend Marmot of Nefariousness"
+    },
+    {
+      "id": 40575313,
+      "name": "Shadow Specter"
+    },
+    {
+      "id": 33112041,
+      "name": "Volcanic Rat"
+    },
+    {
+      "id": 99171160,
+      "name": "Kozaky"
+    },
+    {
+      "id": 12057781,
+      "name": "Goblin Calligrapher"
+    },
+    {
+      "id": 18914778,
+      "name": "Change Slime"
+    },
+    {
+      "id": 53776525,
+      "name": "Gigobyte"
+    },
+    {
+      "id": 32274490,
+      "name": "Skull Servant"
+    },
+    {
+      "id": 59983499,
+      "name": "Dancing Elf"
+    },
+    {
+      "id": 57308711,
+      "name": "Unicycular"
+    },
+    {
+      "id": 27520594,
+      "name": "Sunseed Genius Loci"
+    },
+    {
+      "id": 95051344,
+      "name": "Eternal Rest"
+    },
+    {
+      "id": 4614116,
+      "name": "Dark Energy"
+    },
+    {
+      "id": 2370081,
+      "name": "Steel Shell"
+    },
+    {
+      "id": 84428023,
+      "name": "Wattjustment"
+    },
+    {
+      "id": 61854111,
+      "name": "Legendary Sword"
+    },
+    {
+      "id": 84740193,
+      "name": "Buster Rancher"
+    },
+    {
+      "id": 97687912,
+      "name": "Fairy Meteor Crush"
+    },
+    {
+      "id": 98374133,
+      "name": "Invigoration"
+    },
+    {
+      "id": 44209392,
+      "name": "Castle Walls"
+    },
+    {
+      "id": 77622396,
+      "name": "Reverse Trap"
+    },
+    {
+      "id": 83887306,
+      "name": "Two-Pronged Attack"
+    },
+    {
+      "id": 96355986,
+      "name": "Enchanted Javelin"
+    },
+    {
+      "id": 70781052,
+      "name": "Summoned Skull"
+    },
+    {
+      "id": 98427577,
+      "name": "Scrap-Iron Scarecrow"
+    },
+    {
+      "id": 54652250,
+      "name": "Man-Eater Bug"
+    },
+    {
+      "id": 21502796,
+      "name": "Ryko, Lightsworn Hunter"
+    },
+    {
+      "id": 85401123,
+      "name": "Mokomoko"
+    },
+    {
+      "id": 43422537,
+      "name": "Double Summon"
+    },
+    {
+      "id": 84877802,
+      "name": "Magnum Shield"
+    },
+    {
+      "id": 3810071,
+      "name": "Monk Fighter"
+    },
+    {
+      "id": 67284107,
+      "name": "Scapeghost"
+    },
+    {
+      "id": 21452275,
+      "name": "Aroma Jar"
+    },
+    {
+      "id": 83994646,
+      "name": "4-Starred Ladybug of Doom"
+    },
+    {
+      "id": 1102515,
+      "name": "Dark Mimic LV3"
+    },
+    {
+      "id": 74713516,
+      "name": "Dark Mimic LV1"
+    },
+    {
+      "id": 43040603,
+      "name": "Monster Gate"
+    },
+    {
+      "id": 43434803,
+      "name": "The Shallow Grave"
+    },
+    {
+      "id": 27324313,
+      "name": "Wattkid"
+    },
+    {
+      "id": 32362575,
+      "name": "Magical Merchant"
+    },
+    {
+      "id": 14644902,
+      "name": "Summoner of Illusions"
+    },
+    {
+      "id": 13599884,
+      "name": "Steel Scorpion"
+    },
+    {
+      "id": 6178850,
+      "name": "Fighting Spirit"
+    },
+    {
+      "id": 242146,
+      "name": "Ballista of Rampart Smashing"
+    },
+    {
+      "id": 5183693,
+      "name": "Amulet of Ambition"
+    },
+    {
+      "id": 98495314,
+      "name": "Sword of Deep-Seated"
+    },
+    {
+      "id": 98867329,
+      "name": "Cursed Armaments"
+    },
+    {
+      "id": 28121403,
+      "name": "Really Eternal Rest"
+    },
+    {
+      "id": 56713552,
+      "name": "Obese Marmot of Nefariousness"
+    },
+    {
+      "id": 15510988,
+      "name": "Thunder Kid"
+    },
+    {
+      "id": 10000000,
+      "name": "Obelisk the Tormentor"
+    },
+    {
+      "id": 10000010,
+      "name": "The Winged Dragon of Ra"
+    },
+    {
+      "id": 10000020,
+      "name": "Slifer the Sky Dragon"
+    },
+    {
+      "id": 49814180,
+      "name": "Master Monk"
+    },
+    {
+      "id": 28357177,
+      "name": "Hade-Hane"
+    },
+    {
+      "id": 58185394,
+      "name": "Giant Kozaky"
+    },
+    {
+      "id": 20450925,
+      "name": "Hanewata"
+    },
+    {
+      "id": 10389794,
+      "name": "Doom Donuts"
+    },
+    {
+      "id": 5758500,
+      "name": "Soul Release"
+    },
+    {
+      "id": 17092736,
+      "name": "Ancient Telescope"
+    },
+    {
+      "id": 81820689,
+      "name": "The Inexperienced Spy"
+    },
+    {
+      "id": 97570038,
+      "name": "Kaminote Blow"
+    },
+    {
+      "id": 18658572,
+      "name": "Goblin Circus"
+    },
+    {
+      "id": 7625614,
+      "name": "Raregold Armor"
+    },
+    {
+      "id": 17589298,
+      "name": "Sword of Dark Rites"
+    },
+    {
+      "id": 35220244,
+      "name": "Gravity Blaster"
+    },
+    {
+      "id": 95638658,
+      "name": "Shooting Star Bow - Ceal"
+    },
+    {
+      "id": 96458440,
+      "name": "Legendary Black Belt"
+    },
+    {
+      "id": 21908319,
+      "name": "Kozaky's Self-Destruct Button"
+    },
+    {
+      "id": 48497555,
+      "name": "Scrap-Iron Statue"
+    },
+    {
+      "id": 49998907,
+      "name": "Fruits of Kozaky's Studies"
+    },
+    {
+      "id": 82452993,
+      "name": "Lone Wolf"
+    },
+    {
+      "id": 80584548,
+      "name": "Ballista Squad"
+    },
+    {
+      "id": 34124316,
+      "name": "Cyber Jar"
+    },
+    {
+      "id": 97077563,
+      "name": "Call of the Haunted"
+    }
+  ]
+}
