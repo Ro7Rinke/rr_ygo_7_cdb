@@ -1,0 +1,782 @@
+{
+  "title": "Booster Collection Starter Deck 1",
+  "code": "BCSD-1",
+  "price": 500,
+  "cash_type": "cash",
+  "prefix": "SDYKJP",
+  "type": "starter-deck",
+  "date": "2003-03-30",
+  "cards": [
+    {
+      "id": 74677422,
+      "name": "Red-Eyes Black Dragon",
+      "rarity": "SR"
+    },
+    {
+      "id": 3573512,
+      "name": "Swordsman of Landstar",
+      "rarity": "C"
+    },
+    {
+      "id": 88819587,
+      "name": "Baby Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 80770678,
+      "name": "Spirit of the Harp",
+      "rarity": "SR"
+    },
+    {
+      "id": 4042268,
+      "name": "Island Turtle",
+      "rarity": "SR"
+    },
+    {
+      "id": 34460851,
+      "name": "Flame Manipulator",
+      "rarity": "C"
+    },
+    {
+      "id": 44287299,
+      "name": "Masaki the Legendary Swordsman",
+      "rarity": "C"
+    },
+    {
+      "id": 23771716,
+      "name": "7 Colored Fish",
+      "rarity": "SR"
+    },
+    {
+      "id": 15480588,
+      "name": "Armored Lizard",
+      "rarity": "C"
+    },
+    {
+      "id": 5388481,
+      "name": "Darkfire Soldier #1",
+      "rarity": "SR"
+    },
+    {
+      "id": 30532390,
+      "name": "Sky Scout",
+      "rarity": "SR"
+    },
+    {
+      "id": 423705,
+      "name": "Gearfried the Iron Knight",
+      "rarity": "SR"
+    },
+    {
+      "id": 23289281,
+      "name": "Karate Man",
+      "rarity": "C"
+    },
+    {
+      "id": 7489323,
+      "name": "Milus Radiant",
+      "rarity": "C"
+    },
+    {
+      "id": 71625222,
+      "name": "Time Wizard",
+      "rarity": "C"
+    },
+    {
+      "id": 93013676,
+      "name": "Maha Vailo",
+      "rarity": "C"
+    },
+    {
+      "id": 31560081,
+      "name": "Magician of Faith",
+      "rarity": "SR"
+    },
+    {
+      "id": 16768387,
+      "name": "Big Eye",
+      "rarity": "C"
+    },
+    {
+      "id": 26202165,
+      "name": "Sangan",
+      "rarity": "SE"
+    },
+    {
+      "id": 51371017,
+      "name": "Princess of Tsurugi",
+      "rarity": "C"
+    },
+    {
+      "id": 15150365,
+      "name": "White Magical Hat",
+      "rarity": "C"
+    },
+    {
+      "id": 93920745,
+      "name": "Penguin Soldier",
+      "rarity": "SR"
+    },
+    {
+      "id": 41462083,
+      "name": "Thousand Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 45231177,
+      "name": "Flame Swordsman",
+      "rarity": "C"
+    },
+    {
+      "id": 99597615,
+      "name": "Malevolent Nuzzler",
+      "rarity": "SR"
+    },
+    {
+      "id": 84257639,
+      "name": "Dian Keto the Cure Master",
+      "rarity": "C"
+    },
+    {
+      "id": 25880422,
+      "name": "Block Attack",
+      "rarity": "SR"
+    },
+    {
+      "id": 42703248,
+      "name": "Giant Trunade",
+      "rarity": "SR"
+    },
+    {
+      "id": 16430187,
+      "name": "The Reliable Guardian",
+      "rarity": "C"
+    },
+    {
+      "id": 51482758,
+      "name": "Remove Trap",
+      "rarity": "C"
+    },
+    {
+      "id": 24094653,
+      "name": "Polymerization",
+      "rarity": "C"
+    },
+    {
+      "id": 50913601,
+      "name": "Mountain",
+      "rarity": "C"
+    },
+    {
+      "id": 1435851,
+      "name": "Dragon Treasure",
+      "rarity": "C"
+    },
+    {
+      "id": 95051344,
+      "name": "Eternal Rest",
+      "rarity": "C"
+    },
+    {
+      "id": 52097679,
+      "name": "Shield & Sword",
+      "rarity": "SR"
+    },
+    {
+      "id": 73915051,
+      "name": "Scapegoat",
+      "rarity": "SR"
+    },
+    {
+      "id": 12607053,
+      "name": "Waboku",
+      "rarity": "SR"
+    },
+    {
+      "id": 3027001,
+      "name": "Fake Trap",
+      "rarity": "C"
+    },
+    {
+      "id": 77622396,
+      "name": "Reverse Trap",
+      "rarity": "C"
+    },
+    {
+      "id": 89631139,
+      "name": "Blue-Eyes White Dragon",
+      "rarity": "UR"
+    },
+    {
+      "id": 76184692,
+      "name": "Hitotsu-Me Giant",
+      "rarity": "C"
+    },
+    {
+      "id": 15303296,
+      "name": "Ryu-Kishin",
+      "rarity": "C"
+    },
+    {
+      "id": 6285791,
+      "name": "The Wicked Worm Beast",
+      "rarity": "C"
+    },
+    {
+      "id": 5053103,
+      "name": "Battle Ox",
+      "rarity": "SR"
+    },
+    {
+      "id": 67724379,
+      "name": "Koumori Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 30113682,
+      "name": "Judge Man",
+      "rarity": "SR"
+    },
+    {
+      "id": 1184620,
+      "name": "Kojikocy",
+      "rarity": "C"
+    },
+    {
+      "id": 1784619,
+      "name": "Uraby",
+      "rarity": "C"
+    },
+    {
+      "id": 31122090,
+      "name": "Gyakutenno Megami",
+      "rarity": "C"
+    },
+    {
+      "id": 68516705,
+      "name": "Mystic Horseman",
+      "rarity": "C"
+    },
+    {
+      "id": 63308047,
+      "name": "Terra the Terrible",
+      "rarity": "C"
+    },
+    {
+      "id": 89494469,
+      "name": "Dark Titan of Terror",
+      "rarity": "C"
+    },
+    {
+      "id": 41949033,
+      "name": "Dark Assailant",
+      "rarity": "C"
+    },
+    {
+      "id": 75499502,
+      "name": "Master & Expert",
+      "rarity": "C"
+    },
+    {
+      "id": 97360116,
+      "name": "Unknown Warrior of Fiend",
+      "rarity": "C"
+    },
+    {
+      "id": 45121025,
+      "name": "Ogre of the Black Shadow",
+      "rarity": "C"
+    },
+    {
+      "id": 4614116,
+      "name": "Dark Energy",
+      "rarity": "C"
+    },
+    {
+      "id": 98374133,
+      "name": "Invigoration",
+      "rarity": "C"
+    },
+    {
+      "id": 19523799,
+      "name": "Ookazi",
+      "rarity": "C"
+    },
+    {
+      "id": 24611934,
+      "name": "Ryu-Kishin Powered",
+      "rarity": "C"
+    },
+    {
+      "id": 50005633,
+      "name": "Swordstalker",
+      "rarity": "C"
+    },
+    {
+      "id": 97590747,
+      "name": "La Jinn the Mystical Genie of the Lamp",
+      "rarity": "SR"
+    },
+    {
+      "id": 26378150,
+      "name": "Rude Kaiser",
+      "rarity": "C"
+    },
+    {
+      "id": 73481154,
+      "name": "Destroyer Golem",
+      "rarity": "C"
+    },
+    {
+      "id": 10202894,
+      "name": "Skull Red Bird",
+      "rarity": "C"
+    },
+    {
+      "id": 81057959,
+      "name": "D. Human",
+      "rarity": "C"
+    },
+    {
+      "id": 21263083,
+      "name": "Pale Beast",
+      "rarity": "C"
+    },
+    {
+      "id": 4206964,
+      "name": "Trap Hole",
+      "rarity": "C"
+    },
+    {
+      "id": 19159413,
+      "name": "De-Spell",
+      "rarity": "C"
+    },
+    {
+      "id": 81820689,
+      "name": "The Inexperienced Spy",
+      "rarity": "C"
+    },
+    {
+      "id": 17092736,
+      "name": "Ancient Telescope",
+      "rarity": "C"
+    },
+    {
+      "id": 24068492,
+      "name": "Just Desserts",
+      "rarity": "C"
+    },
+    {
+      "id": 17985575,
+      "name": "Lord of D.",
+      "rarity": "SR"
+    },
+    {
+      "id": 43973174,
+      "name": "The Flute of Summoning Dragon",
+      "rarity": "SR"
+    },
+    {
+      "id": 54098121,
+      "name": "Mysterious Puppeteer",
+      "rarity": "C"
+    },
+    {
+      "id": 46461247,
+      "name": "Trap Master",
+      "rarity": "C"
+    },
+    {
+      "id": 86318356,
+      "name": "Sogen",
+      "rarity": "C"
+    },
+    {
+      "id": 7089711,
+      "name": "Hane-Hane",
+      "rarity": "SR"
+    },
+    {
+      "id": 64631466,
+      "name": "Relinquished",
+      "rarity": "UR"
+    },
+    {
+      "id": 65570596,
+      "name": "Red Archery Girl",
+      "rarity": "C"
+    },
+    {
+      "id": 2964201,
+      "name": "Ryu-Ran",
+      "rarity": "C"
+    },
+    {
+      "id": 28546905,
+      "name": "Illusionist Faceless Mage",
+      "rarity": "C"
+    },
+    {
+      "id": 91939608,
+      "name": "Rogue Doll",
+      "rarity": "C"
+    },
+    {
+      "id": 13039848,
+      "name": "Giant Soldier of Stone",
+      "rarity": "SR"
+    },
+    {
+      "id": 85639257,
+      "name": "Aqua Madoor",
+      "rarity": "C"
+    },
+    {
+      "id": 59383041,
+      "name": "Toon Alligator",
+      "rarity": "C"
+    },
+    {
+      "id": 57617178,
+      "name": "Sonic Bird",
+      "rarity": "C"
+    },
+    {
+      "id": 90020065,
+      "name": "Jigen Bakudan",
+      "rarity": "C"
+    },
+    {
+      "id": 28933734,
+      "name": "Mask of Darkness",
+      "rarity": "C"
+    },
+    {
+      "id": 78010363,
+      "name": "Witch of the Black Forest",
+      "rarity": "SE"
+    },
+    {
+      "id": 46657337,
+      "name": "Muka Muka",
+      "rarity": "C"
+    },
+    {
+      "id": 13215230,
+      "name": "Dream Clown",
+      "rarity": "C"
+    },
+    {
+      "id": 9076207,
+      "name": "Armed Ninja",
+      "rarity": "C"
+    },
+    {
+      "id": 81863068,
+      "name": "Hiro's Shadow Scout",
+      "rarity": "C"
+    },
+    {
+      "id": 53183600,
+      "name": "Blue-Eyes Toon Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 91842653,
+      "name": "Toon Summoned Skull",
+      "rarity": "SR"
+    },
+    {
+      "id": 38369349,
+      "name": "Manga Ryu-Ran",
+      "rarity": "C"
+    },
+    {
+      "id": 65458948,
+      "name": "Toon Mermaid",
+      "rarity": "C"
+    },
+    {
+      "id": 15259703,
+      "name": "Toon World",
+      "rarity": "C"
+    },
+    {
+      "id": 65169794,
+      "name": "Black Pendant",
+      "rarity": "SR"
+    },
+    {
+      "id": 66788016,
+      "name": "Fissure",
+      "rarity": "SR"
+    },
+    {
+      "id": 63102017,
+      "name": "Stop Defense",
+      "rarity": "C"
+    },
+    {
+      "id": 5318639,
+      "name": "Mystical Space Typhoon",
+      "rarity": "UR"
+    },
+    {
+      "id": 70046172,
+      "name": "Rush Recklessly",
+      "rarity": "SR"
+    },
+    {
+      "id": 5758500,
+      "name": "Soul Release",
+      "rarity": "C"
+    },
+    {
+      "id": 41426869,
+      "name": "Black Illusion Ritual",
+      "rarity": "C"
+    },
+    {
+      "id": 20436034,
+      "name": "Ring of Magnetism",
+      "rarity": "C"
+    },
+    {
+      "id": 79571449,
+      "name": "Graceful Charity",
+      "rarity": "SE"
+    },
+    {
+      "id": 17814387,
+      "name": "Reinforcements",
+      "rarity": "SR"
+    },
+    {
+      "id": 3819470,
+      "name": "Seven Tools of the Bandit",
+      "rarity": "UR"
+    },
+    {
+      "id": 80604091,
+      "name": "Ultimate Offering",
+      "rarity": "UR"
+    },
+    {
+      "id": 88279736,
+      "name": "Robbin' Goblin",
+      "rarity": "UR"
+    },
+    {
+      "id": 77414722,
+      "name": "Magic Jammer",
+      "rarity": "SR"
+    },
+    {
+      "id": 96355986,
+      "name": "Enchanted Javelin",
+      "rarity": "C"
+    },
+    {
+      "id": 55608151,
+      "name": "Gryphon Wing",
+      "rarity": "SR"
+    },
+    {
+      "id": 15025844,
+      "name": "Mystical Elf",
+      "rarity": "SR"
+    },
+    {
+      "id": 41392891,
+      "name": "Feral Imp",
+      "rarity": "C"
+    },
+    {
+      "id": 87796900,
+      "name": "Winged Dragon, Guardian of the Fortress #1",
+      "rarity": "C"
+    },
+    {
+      "id": 70781052,
+      "name": "Summoned Skull",
+      "rarity": "UR"
+    },
+    {
+      "id": 32452818,
+      "name": "Beaver Warrior",
+      "rarity": "C"
+    },
+    {
+      "id": 36996508,
+      "name": "Dark Magician",
+      "rarity": "SR"
+    },
+    {
+      "id": 6368038,
+      "name": "Gaia The Fierce Knight",
+      "rarity": "C"
+    },
+    {
+      "id": 28279543,
+      "name": "Curse of Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 91152256,
+      "name": "Celtic Guardian",
+      "rarity": "C"
+    },
+    {
+      "id": 40374923,
+      "name": "Mammoth Graveyard",
+      "rarity": "C"
+    },
+    {
+      "id": 13429800,
+      "name": "Great White",
+      "rarity": "C"
+    },
+    {
+      "id": 90357090,
+      "name": "Silver Fang",
+      "rarity": "C"
+    },
+    {
+      "id": 66672569,
+      "name": "Dragon Zombie",
+      "rarity": "C"
+    },
+    {
+      "id": 16972957,
+      "name": "Doma The Angel of Silence",
+      "rarity": "C"
+    },
+    {
+      "id": 48365709,
+      "name": "Ansatsu",
+      "rarity": "C"
+    },
+    {
+      "id": 36304921,
+      "name": "Witty Phantom",
+      "rarity": "C"
+    },
+    {
+      "id": 41218256,
+      "name": "Claw Reacher",
+      "rarity": "C"
+    },
+    {
+      "id": 47060154,
+      "name": "Mystic Clown",
+      "rarity": "C"
+    },
+    {
+      "id": 37120512,
+      "name": "Sword of Dark Destruction",
+      "rarity": "C"
+    },
+    {
+      "id": 91595718,
+      "name": "Book of Secret Arts",
+      "rarity": "C"
+    },
+    {
+      "id": 53129443,
+      "name": "Dark Hole",
+      "rarity": "UR"
+    },
+    {
+      "id": 93221206,
+      "name": "Ancient Elf",
+      "rarity": "C"
+    },
+    {
+      "id": 46474915,
+      "name": "Magical Ghost",
+      "rarity": "C"
+    },
+    {
+      "id": 83887306,
+      "name": "Two-Pronged Attack",
+      "rarity": "C"
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "rarity": "SE"
+    },
+    {
+      "id": 4031928,
+      "name": "Change of Heart",
+      "rarity": "UR"
+    },
+    {
+      "id": 87557188,
+      "name": "The Stern Mystic",
+      "rarity": "C"
+    },
+    {
+      "id": 13945283,
+      "name": "Wall of Illusion",
+      "rarity": "SR"
+    },
+    {
+      "id": 50930991,
+      "name": "Neo the Magic Swordsman",
+      "rarity": "SR"
+    },
+    {
+      "id": 86325596,
+      "name": "Baron of the Fiend Sword",
+      "rarity": "C"
+    },
+    {
+      "id": 13723605,
+      "name": "Man-Eating Treasure Chest",
+      "rarity": "C"
+    },
+    {
+      "id": 49218300,
+      "name": "Sorcerer of the Doomed",
+      "rarity": "C"
+    },
+    {
+      "id": 85602018,
+      "name": "Last Will",
+      "rarity": "R"
+    },
+    {
+      "id": 68005187,
+      "name": "Soul Exchange",
+      "rarity": "SR"
+    },
+    {
+      "id": 72892473,
+      "name": "Card Destruction",
+      "rarity": "UR"
+    },
+    {
+      "id": 50045299,
+      "name": "Dragon Capture Jar",
+      "rarity": "C"
+    },
+    {
+      "id": 59197169,
+      "name": "Yami",
+      "rarity": "C"
+    },
+    {
+      "id": 54652250,
+      "name": "Man-Eater Bug",
+      "rarity": "SR"
+    },
+    {
+      "id": 44209392,
+      "name": "Castle Walls",
+      "rarity": "C"
+    }
+  ],
+  "slots": []
+}

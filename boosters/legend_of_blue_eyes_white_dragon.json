@@ -1,0 +1,642 @@
+{
+  "title": "Legend of Blue Eyes White Dragon",
+  "code": "BC-1",
+  "price": 500,
+  "cash_type": "cash",
+  "prefix": "LOB-EN",
+  "type": "booster-core",
+  "date": "2004-12-01",
+  "cards": [
+    {
+      "id": 39111158,
+      "name": "Tri-Horned Dragon",
+      "rarity": "SE"
+    },
+    {
+      "id": 89631139,
+      "name": "Blue-Eyes White Dragon",
+      "rarity": "UR"
+    },
+    {
+      "id": 76184692,
+      "name": "Hitotsu-Me Giant",
+      "rarity": "C"
+    },
+    {
+      "id": 45231177,
+      "name": "Flame Swordsman",
+      "rarity": "SR"
+    },
+    {
+      "id": 32274490,
+      "name": "Skull Servant",
+      "rarity": "C"
+    },
+    {
+      "id": 36996508,
+      "name": "Dark Magician",
+      "rarity": "UR"
+    },
+    {
+      "id": 6368038,
+      "name": "Gaia The Fierce Knight",
+      "rarity": "UR"
+    },
+    {
+      "id": 91152256,
+      "name": "Celtic Guardian",
+      "rarity": "SR"
+    },
+    {
+      "id": 89091579,
+      "name": "Basic Insect",
+      "rarity": "C"
+    },
+    {
+      "id": 40374923,
+      "name": "Mammoth Graveyard",
+      "rarity": "C"
+    },
+    {
+      "id": 90357090,
+      "name": "Silver Fang",
+      "rarity": "C"
+    },
+    {
+      "id": 9159938,
+      "name": "Dark Gray",
+      "rarity": "C"
+    },
+    {
+      "id": 77827521,
+      "name": "Trial of Nightmare",
+      "rarity": "C"
+    },
+    {
+      "id": 90963488,
+      "name": "Nemuriko",
+      "rarity": "C"
+    },
+    {
+      "id": 32864,
+      "name": "The 13th Grave",
+      "rarity": "C"
+    },
+    {
+      "id": 37421579,
+      "name": "Charubin the Fire Knight",
+      "rarity": "R"
+    },
+    {
+      "id": 34460851,
+      "name": "Flame Manipulator",
+      "rarity": "C"
+    },
+    {
+      "id": 36121917,
+      "name": "Monster Egg",
+      "rarity": "C"
+    },
+    {
+      "id": 53293545,
+      "name": "Firegrass",
+      "rarity": "C"
+    },
+    {
+      "id": 17881964,
+      "name": "Darkfire Dragon",
+      "rarity": "R"
+    },
+    {
+      "id": 53375573,
+      "name": "Dark King of the Abyss",
+      "rarity": "C"
+    },
+    {
+      "id": 2863439,
+      "name": "Fiend Reflection #2",
+      "rarity": "C"
+    },
+    {
+      "id": 1641882,
+      "name": "Fusionist",
+      "rarity": "R"
+    },
+    {
+      "id": 37313348,
+      "name": "Turtle Tiger",
+      "rarity": "C"
+    },
+    {
+      "id": 75356564,
+      "name": "Petit Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 38142739,
+      "name": "Petit Angel",
+      "rarity": "C"
+    },
+    {
+      "id": 96851799,
+      "name": "Hinotama Soul",
+      "rarity": "C"
+    },
+    {
+      "id": 85639257,
+      "name": "Aqua Madoor",
+      "rarity": "R"
+    },
+    {
+      "id": 15401633,
+      "name": "Kagemusha of the Blue Flame",
+      "rarity": "C"
+    },
+    {
+      "id": 58528964,
+      "name": "Flame Ghost",
+      "rarity": "R"
+    },
+    {
+      "id": 57305373,
+      "name": "Two-Mouth Darkruler",
+      "rarity": "C"
+    },
+    {
+      "id": 40826495,
+      "name": "Dissolverock",
+      "rarity": "C"
+    },
+    {
+      "id": 39004808,
+      "name": "Root Water",
+      "rarity": "C"
+    },
+    {
+      "id": 18710707,
+      "name": "The Furious Sea King",
+      "rarity": "C"
+    },
+    {
+      "id": 22910685,
+      "name": "Green Phantom King",
+      "rarity": "C"
+    },
+    {
+      "id": 85309439,
+      "name": "Ray & Temperature",
+      "rarity": "C"
+    },
+    {
+      "id": 84686841,
+      "name": "King Fog",
+      "rarity": "C"
+    },
+    {
+      "id": 83464209,
+      "name": "Mystical Sheep #2",
+      "rarity": "C"
+    },
+    {
+      "id": 44287299,
+      "name": "Masaki the Legendary Swordsman",
+      "rarity": "C"
+    },
+    {
+      "id": 85705804,
+      "name": "Kurama",
+      "rarity": "C"
+    },
+    {
+      "id": 61854111,
+      "name": "Legendary Sword",
+      "rarity": "SP"
+    },
+    {
+      "id": 46009906,
+      "name": "Beast Fangs",
+      "rarity": "SP"
+    },
+    {
+      "id": 15052462,
+      "name": "Violet Crystal",
+      "rarity": "SP"
+    },
+    {
+      "id": 91595718,
+      "name": "Book of Secret Arts",
+      "rarity": "SP"
+    },
+    {
+      "id": 77027445,
+      "name": "Power of Kaishin",
+      "rarity": "SP"
+    },
+    {
+      "id": 50045299,
+      "name": "Dragon Capture Jar",
+      "rarity": "R"
+    },
+    {
+      "id": 87430998,
+      "name": "Forest",
+      "rarity": "C"
+    },
+    {
+      "id": 23424603,
+      "name": "Wasteland",
+      "rarity": "C"
+    },
+    {
+      "id": 50913601,
+      "name": "Mountain",
+      "rarity": "C"
+    },
+    {
+      "id": 86318356,
+      "name": "Sogen",
+      "rarity": "C"
+    },
+    {
+      "id": 22702055,
+      "name": "Umi",
+      "rarity": "C"
+    },
+    {
+      "id": 59197169,
+      "name": "Yami",
+      "rarity": "C"
+    },
+    {
+      "id": 53129443,
+      "name": "Dark Hole",
+      "rarity": "SR"
+    },
+    {
+      "id": 12580477,
+      "name": "Raigeki",
+      "rarity": "SR"
+    },
+    {
+      "id": 38199696,
+      "name": "Red Medicine",
+      "rarity": "C"
+    },
+    {
+      "id": 76103675,
+      "name": "Sparks",
+      "rarity": "C"
+    },
+    {
+      "id": 46130346,
+      "name": "Hinotama",
+      "rarity": "C"
+    },
+    {
+      "id": 66788016,
+      "name": "Fissure",
+      "rarity": "R"
+    },
+    {
+      "id": 4206964,
+      "name": "Trap Hole",
+      "rarity": "SR"
+    },
+    {
+      "id": 24094653,
+      "name": "Polymerization",
+      "rarity": "SR"
+    },
+    {
+      "id": 51482758,
+      "name": "Remove Trap",
+      "rarity": "C"
+    },
+    {
+      "id": 83887306,
+      "name": "Two-Pronged Attack",
+      "rarity": "R"
+    },
+    {
+      "id": 15025844,
+      "name": "Mystical Elf",
+      "rarity": "SR"
+    },
+    {
+      "id": 72842870,
+      "name": "Tyhone",
+      "rarity": "C"
+    },
+    {
+      "id": 32452818,
+      "name": "Beaver Warrior",
+      "rarity": "C"
+    },
+    {
+      "id": 82542267,
+      "name": "Gravedigger Ghoul",
+      "rarity": "R"
+    },
+    {
+      "id": 28279543,
+      "name": "Curse of Dragon",
+      "rarity": "SR"
+    },
+    {
+      "id": 54541900,
+      "name": "Karbonala Warrior",
+      "rarity": "R"
+    },
+    {
+      "id": 13039848,
+      "name": "Giant Soldier of Stone",
+      "rarity": "R"
+    },
+    {
+      "id": 1784619,
+      "name": "Uraby",
+      "rarity": "C"
+    },
+    {
+      "id": 74677422,
+      "name": "Red-Eyes Black Dragon",
+      "rarity": "UR"
+    },
+    {
+      "id": 33066139,
+      "name": "Reaper of the Cards",
+      "rarity": "R"
+    },
+    {
+      "id": 36304921,
+      "name": "Witty Phantom",
+      "rarity": "C"
+    },
+    {
+      "id": 94675535,
+      "name": "Larvas",
+      "rarity": "C"
+    },
+    {
+      "id": 20060230,
+      "name": "Hard Armor",
+      "rarity": "C"
+    },
+    {
+      "id": 93553943,
+      "name": "Man Eater",
+      "rarity": "C"
+    },
+    {
+      "id": 56342351,
+      "name": "M-Warrior #1",
+      "rarity": "C"
+    },
+    {
+      "id": 92731455,
+      "name": "M-Warrior #2",
+      "rarity": "C"
+    },
+    {
+      "id": 80770678,
+      "name": "Spirit of the Harp",
+      "rarity": "R"
+    },
+    {
+      "id": 53153481,
+      "name": "Armaill",
+      "rarity": "C"
+    },
+    {
+      "id": 63308047,
+      "name": "Terra the Terrible",
+      "rarity": "C"
+    },
+    {
+      "id": 98818516,
+      "name": "Frenzied Panda",
+      "rarity": "C"
+    },
+    {
+      "id": 56283725,
+      "name": "Kumootoko",
+      "rarity": "C"
+    },
+    {
+      "id": 76211194,
+      "name": "Meda Bat",
+      "rarity": "C"
+    },
+    {
+      "id": 75376965,
+      "name": "Enchanting Mermaid",
+      "rarity": "C"
+    },
+    {
+      "id": 71407486,
+      "name": "Fireyarou",
+      "rarity": "C"
+    },
+    {
+      "id": 70681994,
+      "name": "Dragoness the Wicked Knight",
+      "rarity": "R"
+    },
+    {
+      "id": 33064647,
+      "name": "One-Eyed Shield Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 4614116,
+      "name": "Dark Energy",
+      "rarity": "SP"
+    },
+    {
+      "id": 77007920,
+      "name": "Laser Cannon Armor",
+      "rarity": "SP"
+    },
+    {
+      "id": 39774685,
+      "name": "Vile Germs",
+      "rarity": "SP"
+    },
+    {
+      "id": 1557499,
+      "name": "Silver Bow and Arrow",
+      "rarity": "SP"
+    },
+    {
+      "id": 1435851,
+      "name": "Dragon Treasure",
+      "rarity": "SP"
+    },
+    {
+      "id": 37820550,
+      "name": "Electro-Whip",
+      "rarity": "SP"
+    },
+    {
+      "id": 36607978,
+      "name": "Mystical Moon",
+      "rarity": "SP"
+    },
+    {
+      "id": 63102017,
+      "name": "Stop Defense",
+      "rarity": "R"
+    },
+    {
+      "id": 25769732,
+      "name": "Machine Conversion Factory",
+      "rarity": "SP"
+    },
+    {
+      "id": 51267887,
+      "name": "Raise Body Heat",
+      "rarity": "SP"
+    },
+    {
+      "id": 98252586,
+      "name": "Follow Wind",
+      "rarity": "SP"
+    },
+    {
+      "id": 11868825,
+      "name": "Goblin's Secret Remedy",
+      "rarity": "R"
+    },
+    {
+      "id": 73134081,
+      "name": "Final Flame",
+      "rarity": "R"
+    },
+    {
+      "id": 72302403,
+      "name": "Swords of Revealing Light",
+      "rarity": "SR"
+    },
+    {
+      "id": 9293977,
+      "name": "Metal Dragon",
+      "rarity": "R"
+    },
+    {
+      "id": 85326399,
+      "name": "Spike Seadra",
+      "rarity": "C"
+    },
+    {
+      "id": 45042329,
+      "name": "Tripwire Beast",
+      "rarity": "C"
+    },
+    {
+      "id": 10202894,
+      "name": "Skull Red Bird",
+      "rarity": "C"
+    },
+    {
+      "id": 9076207,
+      "name": "Armed Ninja",
+      "rarity": "R"
+    },
+    {
+      "id": 95952802,
+      "name": "Flower Wolf",
+      "rarity": "R"
+    },
+    {
+      "id": 54652250,
+      "name": "Man-Eater Bug",
+      "rarity": "SR"
+    },
+    {
+      "id": 73051941,
+      "name": "Sand Stone",
+      "rarity": "C"
+    },
+    {
+      "id": 7089711,
+      "name": "Hane-Hane",
+      "rarity": "R"
+    },
+    {
+      "id": 33178416,
+      "name": "Misairuzame",
+      "rarity": "C"
+    },
+    {
+      "id": 29172562,
+      "name": "Steel Ogre Grotto #1",
+      "rarity": "C"
+    },
+    {
+      "id": 55444629,
+      "name": "Lesser Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 43500484,
+      "name": "Darkworld Thorns",
+      "rarity": "C"
+    },
+    {
+      "id": 16353197,
+      "name": "Drooling Lizard",
+      "rarity": "C"
+    },
+    {
+      "id": 17535588,
+      "name": "Armored Starfish",
+      "rarity": "C"
+    },
+    {
+      "id": 55291359,
+      "name": "Succubus Knight",
+      "rarity": "C"
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "rarity": "UR"
+    },
+    {
+      "id": 55144522,
+      "name": "Pot of Greed",
+      "rarity": "R"
+    },
+    {
+      "id": 8124921,
+      "name": "Right Leg of the Forbidden One",
+      "rarity": "UR"
+    },
+    {
+      "id": 44519536,
+      "name": "Left Leg of the Forbidden One",
+      "rarity": "UR"
+    },
+    {
+      "id": 70903634,
+      "name": "Right Arm of the Forbidden One",
+      "rarity": "UR"
+    },
+    {
+      "id": 7902349,
+      "name": "Left Arm of the Forbidden One",
+      "rarity": "UR"
+    },
+    {
+      "id": 33396948,
+      "name": "Exodia the Forbidden One",
+      "rarity": "UR"
+    },
+    {
+      "id": 66889139,
+      "name": "Gaia the Dragon Champion",
+      "rarity": "SE"
+    }
+  ],
+  "slots": []
+}

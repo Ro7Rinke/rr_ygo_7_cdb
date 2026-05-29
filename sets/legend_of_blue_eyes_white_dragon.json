@@ -1,0 +1,1277 @@
+{
+  "title": "Legend of Blue Eyes White Dragon",
+  "prefix": "LOB-EN",
+  "type": "booster-core",
+  "date": "2004-12-01",
+  "cards": [
+    {
+      "id": "07509b51-008c-4442-bd86-1ca25e9d97e2",
+      "name": "Tri-Horned Dragon",
+      "passwords": [
+        "39111158"
+      ],
+      "rarities": [
+        "secret"
+      ]
+    },
+    {
+      "id": "e0404755-1ade-4c7c-9a2a-b29b7755d860",
+      "name": "Blue-Eyes White Dragon",
+      "passwords": [
+        "89631139"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "6bfc3150-6122-461d-9d7c-d05ed9b940d0",
+      "name": "Hitotsu-Me Giant",
+      "passwords": [
+        "76184692"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "784af30a-cbda-498e-8fa0-2b97a1495436",
+      "name": "Flame Swordsman",
+      "passwords": [
+        "45231177",
+        "45231178"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "bf5beb4b-b666-4b4f-b9ff-7d755c2f7d04",
+      "name": "Skull Servant",
+      "passwords": [
+        "32274490"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c0285d04-cadd-402d-a865-799a182d7510",
+      "name": "Dark Magician",
+      "passwords": [
+        "46986414",
+        "36996508",
+        "46986421",
+        "46986420"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "e5f94e33-d990-44e5-9615-6b9f6514f263",
+      "name": "Gaia The Fierce Knight",
+      "passwords": [
+        "06368038"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "e003193d-d3f4-46ed-b9c7-c4e0cc9ad559",
+      "name": "Celtic Guardian",
+      "passwords": [
+        "91152256"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "089218bc-9acd-4465-8b04-1ae013132e42",
+      "name": "Basic Insect",
+      "passwords": [
+        "89091579"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "37dfcf32-59b3-43b4-a257-6bab862ad0c9",
+      "name": "Mammoth Graveyard",
+      "passwords": [
+        "40374923"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e899f8c2-c7e8-47b6-9fb6-ec0650bfbdfc",
+      "name": "Silver Fang",
+      "passwords": [
+        "90357090"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "7440099f-3aad-4c6b-ad51-ed2faba8d130",
+      "name": "Dark Gray",
+      "passwords": [
+        "09159938"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "11153b83-49ec-45f3-840c-31709f1a241a",
+      "name": "Trial of Nightmare",
+      "passwords": [
+        "77827521"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "295512d9-49cf-4d4f-9800-6d83aa789317",
+      "name": "Nemuriko",
+      "passwords": [
+        "90963488"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "330253fa-bf3f-45fa-a6c1-3253b2fe849a",
+      "name": "The 13th Grave",
+      "passwords": [
+        "00032864"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "7b0b8521-da54-4824-b741-311106a9a831",
+      "name": "Charubin the Fire Knight",
+      "passwords": [
+        "37421579"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "013e6bd6-d197-45c7-b3a3-7292d96b4faf",
+      "name": "Flame Manipulator",
+      "passwords": [
+        "34460851"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "dae5a30f-ccc1-465f-8345-5ef7f98cd23c",
+      "name": "Monster Egg",
+      "passwords": [
+        "36121917"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f2a4c75f-9f25-4a4f-94ba-2f120554a0aa",
+      "name": "Firegrass",
+      "passwords": [
+        "53293545"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e8511ae0-f67f-4768-93b1-0edc21358db0",
+      "name": "Darkfire Dragon",
+      "passwords": [
+        "17881964"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "d0a30399-4859-4c51-a211-74318bdb720a",
+      "name": "Dark King of the Abyss",
+      "passwords": [
+        "53375573"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0bc10732-9577-446b-8a64-613e52e0f372",
+      "name": "Fiend Reflection #2",
+      "passwords": [
+        "02863439"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "3689dadc-22f8-475b-93e9-f753a8b41e86",
+      "name": "Fusionist",
+      "passwords": [
+        "01641882"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "5e568f25-353b-4de0-927e-038fc0bd21a3",
+      "name": "Turtle Tiger",
+      "passwords": [
+        "37313348"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e069339f-dc78-4260-affa-ca97e9d9538d",
+      "name": "Petit Dragon",
+      "passwords": [
+        "75356564"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1dd65f02-136f-437d-8036-528efaa0035b",
+      "name": "Petit Angel",
+      "passwords": [
+        "38142739"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "8158ba54-9ead-4381-9958-af0a0d3a91e9",
+      "name": "Hinotama Soul",
+      "passwords": [
+        "96851799"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0b22cc5c-a3b4-4e0e-a00e-b84a1b95e899",
+      "name": "Aqua Madoor",
+      "passwords": [
+        "85639257"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "f4bce751-0e79-4868-a005-20f0e8d25638",
+      "name": "Kagemusha of the Blue Flame",
+      "passwords": [
+        "15401633"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "00f85656-e4b7-4a01-a6ff-c1e989215e7e",
+      "name": "Flame Ghost",
+      "passwords": [
+        "58528964"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "cc3174b7-0551-415c-8e18-7030aaf5dc0e",
+      "name": "Two-Mouth Darkruler",
+      "passwords": [
+        "57305373"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "5f7ce495-a836-4a8a-9653-7ea92cb47295",
+      "name": "Dissolverock",
+      "passwords": [
+        "40826495"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "36e1b71f-ecbf-4128-9770-264146371ee1",
+      "name": "Root Water",
+      "passwords": [
+        "39004808"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "85c51e21-5b1e-4c68-a0a2-a0de042e3b4a",
+      "name": "The Furious Sea King",
+      "passwords": [
+        "18710707"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "149a8608-a893-4347-9424-02e533e9e40f",
+      "name": "Green Phantom King",
+      "passwords": [
+        "22910685"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f8a879a3-50d6-4a6a-aba0-ee4e761fa74e",
+      "name": "Ray & Temperature",
+      "passwords": [
+        "85309439"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a7b20a86-aaa2-4aa1-b6aa-f5d84669f149",
+      "name": "King Fog",
+      "passwords": [
+        "84686841"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6af5b63d-9772-44b5-859c-dc03872d2ec7",
+      "name": "Mystical Sheep #2",
+      "passwords": [
+        "83464209"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "449a8b35-c5a0-4f8f-a41c-7f7efb8bf636",
+      "name": "Masaki the Legendary Swordsman",
+      "passwords": [
+        "44287299"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f943e901-e9bc-41fa-93bb-a6750932c9ea",
+      "name": "Kurama",
+      "passwords": [
+        "85705804"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "9cf2f89c-4397-4e05-a372-7fa425283b8d",
+      "name": "Legendary Sword",
+      "passwords": [
+        "61854111"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "0bf51907-f8ea-43f8-85ad-1f3475d0137a",
+      "name": "Beast Fangs",
+      "passwords": [
+        "46009906"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "41ebf4fc-07a8-4b35-ae2d-e536c4d55a8e",
+      "name": "Violet Crystal",
+      "passwords": [
+        "15052462"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "f8e9413b-8d05-49cc-9599-bb28f2b8ee51",
+      "name": "Book of Secret Arts",
+      "passwords": [
+        "91595718"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "94868883-03a6-4ee2-b89b-e74224dfa562",
+      "name": "Power of Kaishin",
+      "passwords": [
+        "77027445"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "075d9779-44be-4ecd-98f9-cbdb5f5032ad",
+      "name": "Dragon Capture Jar",
+      "passwords": [
+        "50045299"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "2981d35a-3e50-4920-80bf-d68927369922",
+      "name": "Forest",
+      "passwords": [
+        "87430998"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d64d2866-1c4f-4170-a40a-11ae04eefa50",
+      "name": "Wasteland",
+      "passwords": [
+        "23424603"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6cd1fb0f-214d-4f27-8b9f-7d0a9439d6e3",
+      "name": "Mountain",
+      "passwords": [
+        "50913601"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0fd410a2-33fc-4374-acb6-c0ab8efe4d2b",
+      "name": "Sogen",
+      "passwords": [
+        "86318356"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "ab4821a3-8f81-4f60-9dac-784496371094",
+      "name": "Umi",
+      "passwords": [
+        "22702055"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2a232b42-239f-4f0d-91fe-9d052fe53ccd",
+      "name": "Yami",
+      "passwords": [
+        "59197169"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0bae3885-838e-4d5d-88ac-108218510d12",
+      "name": "Dark Hole",
+      "passwords": [
+        "53129443"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "0aecee88-0143-4c57-9a78-ddaa97e9e378",
+      "name": "Raigeki",
+      "passwords": [
+        "12580477"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "f76c1f1f-1740-4f1b-b8a6-2a6df3f87dbd",
+      "name": "Red Medicine",
+      "passwords": [
+        "38199696"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c1ae1e66-1a37-47b5-96d6-43830ebab35c",
+      "name": "Sparks",
+      "passwords": [
+        "76103675"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "9756bdd7-deb8-4a72-b94a-ee9f0fd4071b",
+      "name": "Hinotama",
+      "passwords": [
+        "46130346"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "967ebe38-3c90-4f10-822d-219430d22e94",
+      "name": "Fissure",
+      "passwords": [
+        "66788016"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "37bca14b-fe1a-4018-ae53-bf9a58e7d02c",
+      "name": "Trap Hole",
+      "passwords": [
+        "04206964"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "6e2e39c1-e5b2-4070-aff4-ee935a14a83e",
+      "name": "Polymerization",
+      "passwords": [
+        "24094653",
+        "27847700"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "c52cfe82-9749-4d0f-b674-fcd1b282c599",
+      "name": "Remove Trap",
+      "passwords": [
+        "51482758"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "cc9b4ddf-32ed-4a7b-96a2-d1e07cdb647b",
+      "name": "Two-Pronged Attack",
+      "passwords": [
+        "83887306"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "e8b3499e-9370-43a1-aa44-a9d4eaed4e8e",
+      "name": "Mystical Elf",
+      "passwords": [
+        "15025844"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "a02bcb06-09e8-48ca-82ff-8ba3e172ff0d",
+      "name": "Tyhone",
+      "passwords": [
+        "72842870"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "11fad113-2680-40bf-ad24-bafef9f44ea6",
+      "name": "Beaver Warrior",
+      "passwords": [
+        "32452818"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "512d68ca-c2fb-40f8-90ef-09781caf8efa",
+      "name": "Gravedigger Ghoul",
+      "passwords": [
+        "82542267"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "680c4061-57b9-4117-98c3-0f637c491742",
+      "name": "Curse of Dragon",
+      "passwords": [
+        "28279543"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "8f724a39-8d65-4b64-aa24-3de90744c134",
+      "name": "Karbonala Warrior",
+      "passwords": [
+        "54541900"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "26005535-d60f-4b75-9329-e5bcd1ba43b8",
+      "name": "Giant Soldier of Stone",
+      "passwords": [
+        "13039848"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "0de6b15f-4d3f-4fbf-b9d1-3f735eed3777",
+      "name": "Uraby",
+      "passwords": [
+        "01784619"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "bc4ce584-7451-4d5b-8d25-2557632e4be5",
+      "name": "Red-Eyes Black Dragon",
+      "passwords": [
+        "74677422",
+        "74677427"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "0b670707-df23-4d55-9300-47d77109b5dc",
+      "name": "Reaper of the Cards",
+      "passwords": [
+        "33066139"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "a42ceacc-6768-4d02-98f0-ce4541be0e48",
+      "name": "Witty Phantom",
+      "passwords": [
+        "36304921"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2f4b4778-10c5-4de4-a218-e47cd5ebe543",
+      "name": "Larvas",
+      "passwords": [
+        "94675535"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "079f052d-ccd8-494c-94ea-41243162eba0",
+      "name": "Hard Armor",
+      "passwords": [
+        "20060230"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "01f20f9f-ece3-41eb-bf66-86af0e30ae5b",
+      "name": "Man Eater",
+      "passwords": [
+        "93553943"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1fe57e42-5710-406c-8e5c-8d9886f05dba",
+      "name": "M-Warrior #1",
+      "passwords": [
+        "56342351"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "888e29b4-82e8-450c-8d3d-f4f868b792ec",
+      "name": "M-Warrior #2",
+      "passwords": [
+        "92731455"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f6270573-079c-4b38-b9c8-2782b701c206",
+      "name": "Spirit of the Harp",
+      "passwords": [
+        "80770678"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "364855b0-553a-423c-abef-1e08b5d13c61",
+      "name": "Armaill",
+      "passwords": [
+        "53153481"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e8746d07-56cc-47a7-b866-caf020e1290e",
+      "name": "Terra the Terrible",
+      "passwords": [
+        "63308047"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "aa00506a-8512-4b80-877a-a087ba09a4cb",
+      "name": "Frenzied Panda",
+      "passwords": [
+        "98818516"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "318cb48b-20e7-4362-96c8-b40961a810d9",
+      "name": "Kumootoko",
+      "passwords": [
+        "56283725"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "197dcb34-835e-4f6c-ae0a-f45e8bfcebc1",
+      "name": "Meda Bat",
+      "passwords": [
+        "76211194"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f4815210-ad55-4f20-9885-9058f554cc04",
+      "name": "Enchanting Mermaid",
+      "passwords": [
+        "75376965"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "61ae1d35-afb6-4ae2-b72b-14dd45c92238",
+      "name": "Fireyarou",
+      "passwords": [
+        "71407486"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "00133a62-8b6d-4ea9-9bb6-79acfa292656",
+      "name": "Dragoness the Wicked Knight",
+      "passwords": [
+        "70681994"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "f7ce5d01-e681-4206-8f45-05c913a100e7",
+      "name": "One-Eyed Shield Dragon",
+      "passwords": [
+        "33064647"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "162d5bfb-dbe2-4363-972a-101ddcc7fd7f",
+      "name": "Dark Energy",
+      "passwords": [
+        "04614116"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "ff23054a-2000-45c4-8022-fc19942e790e",
+      "name": "Laser Cannon Armor",
+      "passwords": [
+        "77007920"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "67741dd0-a2bd-4349-8494-ae95686c064e",
+      "name": "Vile Germs",
+      "passwords": [
+        "39774685"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "bb0f03d9-1da1-4a76-9cc9-f78e103d0a46",
+      "name": "Silver Bow and Arrow",
+      "passwords": [
+        "01557499"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "dfe00223-3802-4233-9949-9e5dbdd1b3c0",
+      "name": "Dragon Treasure",
+      "passwords": [
+        "01435851"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "c6418630-6370-4a3b-9e09-ad9418571091",
+      "name": "Electro-Whip",
+      "passwords": [
+        "37820550"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "3138fcb8-6e52-47bc-a5cc-932eae580b30",
+      "name": "Mystical Moon",
+      "passwords": [
+        "36607978"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "baa316bc-33d1-4d67-aef4-4bdc1fc9e5fa",
+      "name": "Stop Defense",
+      "passwords": [
+        "63102017"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "459da2c1-913a-4851-8853-bf22b50ef639",
+      "name": "Machine Conversion Factory",
+      "passwords": [
+        "25769732"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "960c4cff-83c4-42c0-8a36-244581648cff",
+      "name": "Raise Body Heat",
+      "passwords": [
+        "51267887"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "8327ef25-7906-4b7d-9bf6-8235a6dd53d0",
+      "name": "Follow Wind",
+      "passwords": [
+        "98252586"
+      ],
+      "rarities": [
+        "shortprint"
+      ]
+    },
+    {
+      "id": "6190b2fd-ac21-4781-a067-18cdc6064aeb",
+      "name": "Goblin's Secret Remedy",
+      "passwords": [
+        "11868825"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "45526162-ea5e-472d-bd5d-364c5406a954",
+      "name": "Final Flame",
+      "passwords": [
+        "73134082",
+        "73134081"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "e1a7a928-8fa0-4ab1-bade-66c0258a0d0c",
+      "name": "Swords of Revealing Light",
+      "passwords": [
+        "72302403"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "0c189b17-1b21-4f0b-b09b-144d930f30bb",
+      "name": "Metal Dragon",
+      "passwords": [
+        "09293977"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "a083d7e0-a2ac-4a03-8de7-48f8e936a326",
+      "name": "Spike Seadra",
+      "passwords": [
+        "85326399"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d37ea40d-1eda-4ad6-9d18-f4aff4855359",
+      "name": "Tripwire Beast",
+      "passwords": [
+        "45042329"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "cf90f686-2886-4d3e-8235-8f33d394d4c6",
+      "name": "Skull Red Bird",
+      "passwords": [
+        "10202894"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "4f0cbb48-b918-442a-a91f-b840ad2c3c10",
+      "name": "Armed Ninja",
+      "passwords": [
+        "09076207"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "188067c3-469a-4aa9-95a3-699ad35d4ca4",
+      "name": "Flower Wolf",
+      "passwords": [
+        "95952802"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "b7f2e06b-4996-4c39-8958-63d93da1769f",
+      "name": "Man-Eater Bug",
+      "passwords": [
+        "54652250"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "b666ee75-f741-40db-a81e-f206c2b9ea18",
+      "name": "Sand Stone",
+      "passwords": [
+        "73051941"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "7fbc81c5-7d85-439c-9d23-5c3be08d5a6f",
+      "name": "Hane-Hane",
+      "passwords": [
+        "07089711"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "e7b70431-3ee2-4ea9-b28d-64bbf3ceceb9",
+      "name": "Misairuzame",
+      "passwords": [
+        "33178416"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1377bc0d-2f38-4021-ba1c-90bde5cb60d6",
+      "name": "Steel Ogre Grotto #1",
+      "passwords": [
+        "29172562"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "76e38335-7e69-4b33-8fef-beb22252899e",
+      "name": "Lesser Dragon",
+      "passwords": [
+        "55444629"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "46e17faa-57a5-4bf8-9f1b-8c7b99b3f816",
+      "name": "Darkworld Thorns",
+      "passwords": [
+        "43500484"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1a397085-d224-459f-9f5d-a57b181ca02e",
+      "name": "Drooling Lizard",
+      "passwords": [
+        "16353197"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "cc823f6e-7a70-4db6-b870-f8167f5327a0",
+      "name": "Armored Starfish",
+      "passwords": [
+        "17535588"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "bb0f5400-62e8-4195-9278-634364aa465f",
+      "name": "Succubus Knight",
+      "passwords": [
+        "55291359"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "08a59d85-df4c-4a8d-a9f6-b07dc21f58b0",
+      "name": "Monster Reborn",
+      "passwords": [
+        "83764719",
+        "83764718"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "3dc62228-c78c-4cbb-9c5a-72962718d2e4",
+      "name": "Pot of Greed",
+      "passwords": [
+        "55144522"
+      ],
+      "rarities": [
+        "rare"
+      ]
+    },
+    {
+      "id": "04745c67-9635-4afd-8e4a-2a7e82ba5a88",
+      "name": "Right Leg of the Forbidden One",
+      "passwords": [
+        "08124921"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "c4e52e88-f337-4500-9b9b-3ee95768bcaa",
+      "name": "Left Leg of the Forbidden One",
+      "passwords": [
+        "44519536"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "234972bf-3a2b-4af3-8862-a89257cd74d0",
+      "name": "Right Arm of the Forbidden One",
+      "passwords": [
+        "70903634"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "d4ea8716-4bb6-4f13-86a4-22cb67fcd536",
+      "name": "Left Arm of the Forbidden One",
+      "passwords": [
+        "07902349"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "ae2ca47a-0068-458c-9fe7-8128dc63cad6",
+      "name": "Exodia the Forbidden One",
+      "passwords": [
+        "33396948"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "5effb838-8b8c-4bca-ad14-0557a7355e40",
+      "name": "Gaia the Dragon Champion",
+      "passwords": [
+        "66889139"
+      ],
+      "rarities": [
+        "secret"
+      ]
+    }
+  ],
+  "slots": []
+}

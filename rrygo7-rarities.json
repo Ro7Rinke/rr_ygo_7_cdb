@@ -1,0 +1,62 @@
+[
+  { "original_name": "10000secret", "code": "10000SE", "level": 800 },
+  
+  { "original_name": "25thsecret", "code": "25thSE", "level": 790 },
+  { "original_name": "20thsecret", "code": "20thSE", "level": 780 },
+  { "original_name": "ghost", "code": "GHR", "level": 770 },
+  { "original_name": "starlight", "code": "STR", "level": 760 },
+  { "original_name": "ultimate", "code": "UTR", "level": 750 },
+  { "original_name": "goldghost", "code": "GGR", "level": 740 },
+  { "original_name": "collectors", "code": "CR", "level": 730 },
+  { "original_name": "pharaohs", "code": "PRPH", "level": 720 },
+  
+  { "original_name": "milleniumsecret", "code": "MSR", "level": 690 },
+  { "original_name": "extrasecret", "code": "EXSE", "level": 680 },
+  { "original_name": "platinumsecret", "code": "PLSE", "level": 670 },
+  { "original_name": "goldsecret", "code": "GSER", "level": 660 },
+  { "original_name": "premiumgold", "code": "PG", "level": 650 },
+  { "original_name": "ultrasecret", "code": "ULSE", "level": 640 },
+  { "original_name": "secret", "code": "SE", "level": 630 },
+  { "original_name": "prismaticsecret", "code": "PRM", "level": 620 },
+  { "original_name": "extrasecretparallel", "code": "EXSEP", "level": 610 },
+  { "original_name": "dtscpr", "code": "DTSCPR", "level": 605 },
+  { "original_name": "secretparallel", "code": "SEP", "level": 600 },
+  
+  { "original_name": "platinum", "code": "PLR", "level": 590 },
+  { "original_name": "gold", "code": "GR", "level": 580 },
+  { "original_name": "milleniumultra", "code": "MUR", "level": 560 },
+  { "original_name": "milleniumgold", "code": "MGR", "level": 550 },
+  { "original_name": "millenium", "code": "MR", "level": 540 },
+  { "original_name": "ultra", "code": "UR", "level": 530 },
+  { "original_name": "dtupr", "code": "DTUPR", "level": 515 },
+  { "original_name": "ultraparallel", "code": "URP", "level": 510 },
+  { "original_name": "kcultra", "code": "KCUR", "level": 500 },
+  
+  { "original_name": "super", "code": "SR", "level": 450 },
+  { "original_name": "dtspr", "code": "DTSPR", "level": 445 },
+  { "original_name": "superparallel", "code": "SRP", "level": 440 },
+  
+  { "original_name": "kcrare", "code": "KCR", "level": 360 },
+  { "original_name": "rare", "code": "R", "level": 350 },
+  { "original_name": "rare-red", "code": "R-R", "level": 345 },
+  { "original_name": "rare-blue", "code": "R-B", "level": 344 },
+  { "original_name": "rare-purple", "code": "R-P", "level": 343 },
+  { "original_name": "rare-green", "code": "R-G", "level": 342 },
+  { "original_name": "rare-copper", "code": "R-C", "level": 341 },
+  { "original_name": "rare-wedgewood", "code": "R-W", "level": 340 },
+  { "original_name": "dtrpr", "code": "DTRPR", "level": 335 },
+  { "original_name": "rareparallel", "code": "RP", "level": 330 },
+  { "original_name": "mosaic", "code": "MOS", "level": 322 },
+  { "original_name": "shatterfoil", "code": "SHF", "level": 321 },
+  { "original_name": "starfoil", "code": "SF", "level": 320 },
+  
+  { "original_name": "dtpsp", "code": "DTPSP", "level": 235 },
+  { "original_name": "shortprint", "code": "SP", "level": 230 },
+  
+  { "original_name": "kccommon", "code": "KCC", "level": 130 },
+  { "original_name": "dtpc", "code": "DTPC", "level": 125 },
+  { "original_name": "commonparallel", "code": "CMP", "level": 120 },
+  { "original_name": "common", "code": "C", "level": 110 },
+  
+  { "original_name": "unknow", "code": "UK", "level": 0 }
+]

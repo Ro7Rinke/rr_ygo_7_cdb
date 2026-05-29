@@ -1,0 +1,262 @@
+{
+  "title": "Starter Deck: Joey",
+  "code": "BCSDJ",
+  "price": 500,
+  "cash_type": "cash",
+  "prefix": "SDJ-",
+  "type": "starter-deck",
+  "date": "2003-03-30",
+  "cards": [
+    {
+      "id": 74677422,
+      "name": "Red-Eyes Black Dragon",
+      "rarity": "UR"
+    },
+    {
+      "id": 3573512,
+      "name": "Swordsman of Landstar",
+      "rarity": "C"
+    },
+    {
+      "id": 88819587,
+      "name": "Baby Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 80770678,
+      "name": "Spirit of the Harp",
+      "rarity": "C"
+    },
+    {
+      "id": 4042268,
+      "name": "Island Turtle",
+      "rarity": "C"
+    },
+    {
+      "id": 34460851,
+      "name": "Flame Manipulator",
+      "rarity": "C"
+    },
+    {
+      "id": 44287299,
+      "name": "Masaki the Legendary Swordsman",
+      "rarity": "C"
+    },
+    {
+      "id": 23771716,
+      "name": "7 Colored Fish",
+      "rarity": "C"
+    },
+    {
+      "id": 15480588,
+      "name": "Armored Lizard",
+      "rarity": "C"
+    },
+    {
+      "id": 5388481,
+      "name": "Darkfire Soldier #1",
+      "rarity": "C"
+    },
+    {
+      "id": 30532390,
+      "name": "Sky Scout",
+      "rarity": "C"
+    },
+    {
+      "id": 423705,
+      "name": "Gearfried the Iron Knight",
+      "rarity": "C"
+    },
+    {
+      "id": 23289281,
+      "name": "Karate Man",
+      "rarity": "C"
+    },
+    {
+      "id": 7489323,
+      "name": "Milus Radiant",
+      "rarity": "C"
+    },
+    {
+      "id": 71625222,
+      "name": "Time Wizard",
+      "rarity": "C"
+    },
+    {
+      "id": 93013676,
+      "name": "Maha Vailo",
+      "rarity": "C"
+    },
+    {
+      "id": 31560081,
+      "name": "Magician of Faith",
+      "rarity": "C"
+    },
+    {
+      "id": 16768387,
+      "name": "Big Eye",
+      "rarity": "C"
+    },
+    {
+      "id": 26202165,
+      "name": "Sangan",
+      "rarity": "C"
+    },
+    {
+      "id": 51371017,
+      "name": "Princess of Tsurugi",
+      "rarity": "C"
+    },
+    {
+      "id": 15150365,
+      "name": "White Magical Hat",
+      "rarity": "C"
+    },
+    {
+      "id": 93920745,
+      "name": "Penguin Soldier",
+      "rarity": "SR"
+    },
+    {
+      "id": 41462083,
+      "name": "Thousand Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 45231177,
+      "name": "Flame Swordsman",
+      "rarity": "C"
+    },
+    {
+      "id": 99597615,
+      "name": "Malevolent Nuzzler",
+      "rarity": "C"
+    },
+    {
+      "id": 53129443,
+      "name": "Dark Hole",
+      "rarity": "C"
+    },
+    {
+      "id": 84257639,
+      "name": "Dian Keto the Cure Master",
+      "rarity": "C"
+    },
+    {
+      "id": 66788016,
+      "name": "Fissure",
+      "rarity": "C"
+    },
+    {
+      "id": 19159413,
+      "name": "De-Spell",
+      "rarity": "C"
+    },
+    {
+      "id": 4031928,
+      "name": "Change of Heart",
+      "rarity": "C"
+    },
+    {
+      "id": 25880422,
+      "name": "Block Attack",
+      "rarity": "C"
+    },
+    {
+      "id": 42703248,
+      "name": "Giant Trunade",
+      "rarity": "C"
+    },
+    {
+      "id": 16430187,
+      "name": "The Reliable Guardian",
+      "rarity": "C"
+    },
+    {
+      "id": 51482758,
+      "name": "Remove Trap",
+      "rarity": "C"
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "rarity": "C"
+    },
+    {
+      "id": 24094653,
+      "name": "Polymerization",
+      "rarity": "C"
+    },
+    {
+      "id": 50913601,
+      "name": "Mountain",
+      "rarity": "C"
+    },
+    {
+      "id": 1435851,
+      "name": "Dragon Treasure",
+      "rarity": "C"
+    },
+    {
+      "id": 95051344,
+      "name": "Eternal Rest",
+      "rarity": "C"
+    },
+    {
+      "id": 52097679,
+      "name": "Shield & Sword",
+      "rarity": "C"
+    },
+    {
+      "id": 73915051,
+      "name": "Scapegoat",
+      "rarity": "SR"
+    },
+    {
+      "id": 24068492,
+      "name": "Just Desserts",
+      "rarity": "C"
+    },
+    {
+      "id": 4206964,
+      "name": "Trap Hole",
+      "rarity": "C"
+    },
+    {
+      "id": 17814387,
+      "name": "Reinforcements",
+      "rarity": "C"
+    },
+    {
+      "id": 44209392,
+      "name": "Castle Walls",
+      "rarity": "C"
+    },
+    {
+      "id": 12607053,
+      "name": "Waboku",
+      "rarity": "C"
+    },
+    {
+      "id": 80604091,
+      "name": "Ultimate Offering",
+      "rarity": "C"
+    },
+    {
+      "id": 3819470,
+      "name": "Seven Tools of the Bandit",
+      "rarity": "C"
+    },
+    {
+      "id": 3027001,
+      "name": "Fake Trap",
+      "rarity": "C"
+    },
+    {
+      "id": 77622396,
+      "name": "Reverse Trap",
+      "rarity": "C"
+    }
+  ],
+  "slots": []
+}

@@ -1,3 +1,8 @@
 node_modules
 import-cdbs/*
 generated-cdbs/*
+import-sets/*
+generated-sets/*
+import-boosters/*
+generated-boosters/*
+data/*

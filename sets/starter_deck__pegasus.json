@@ -1,0 +1,512 @@
+{
+  "title": "Starter Deck: Pegasus",
+  "prefix": "SDP-",
+  "type": "starter-deck",
+  "date": "2003-03-30",
+  "cards": [
+    {
+      "id": "bad094c6-414f-49e1-a5e6-96582c088b8f",
+      "name": "Relinquished",
+      "passwords": [
+        "64631466"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "236c6e04-0486-409f-9e6e-4fb24068fd8f",
+      "name": "Red Archery Girl",
+      "passwords": [
+        "65570596"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "51e06f90-e08a-4ef1-bfa6-b03c9dfb7e01",
+      "name": "Ryu-Ran",
+      "passwords": [
+        "02964201"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "5c458e4c-555e-45a1-b629-25f2403c0c15",
+      "name": "Illusionist Faceless Mage",
+      "passwords": [
+        "28546905"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "4c90e565-7ace-408e-9609-304b630c8c11",
+      "name": "Rogue Doll",
+      "passwords": [
+        "91939608"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0de6b15f-4d3f-4fbf-b9d1-3f735eed3777",
+      "name": "Uraby",
+      "passwords": [
+        "01784619"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "26005535-d60f-4b75-9329-e5bcd1ba43b8",
+      "name": "Giant Soldier of Stone",
+      "passwords": [
+        "13039848"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0b22cc5c-a3b4-4e0e-a00e-b84a1b95e899",
+      "name": "Aqua Madoor",
+      "passwords": [
+        "85639257"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "ce31839e-3382-44b7-9520-74e3695094c1",
+      "name": "Toon Alligator",
+      "passwords": [
+        "59383041"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "7fbc81c5-7d85-439c-9d23-5c3be08d5a6f",
+      "name": "Hane-Hane",
+      "passwords": [
+        "07089711"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "171d7aa5-c145-4b0a-8301-1c1f9d3a0dab",
+      "name": "Sonic Bird",
+      "passwords": [
+        "57617178"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f2593609-8afd-4af4-bc0a-95b3b47f3e09",
+      "name": "Jigen Bakudan",
+      "passwords": [
+        "90020065"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c3692312-c9e6-42b3-8a20-25e63883c135",
+      "name": "Mask of Darkness",
+      "passwords": [
+        "28933734"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c68337e1-a9a5-486b-aca5-b7565c571643",
+      "name": "Witch of the Black Forest",
+      "passwords": [
+        "78010363"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "b7f2e06b-4996-4c39-8958-63d93da1769f",
+      "name": "Man-Eater Bug",
+      "passwords": [
+        "54652250"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2003324b-34cb-432b-bb25-0a835717bab5",
+      "name": "Muka Muka",
+      "passwords": [
+        "46657337"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d81c111d-6c12-4c43-a877-6eac2cc2d2a5",
+      "name": "Dream Clown",
+      "passwords": [
+        "13215230"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "4f0cbb48-b918-442a-a91f-b840ad2c3c10",
+      "name": "Armed Ninja",
+      "passwords": [
+        "09076207"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "697245d8-447f-4645-9606-c246e773e59d",
+      "name": "Hiro's Shadow Scout",
+      "passwords": [
+        "81863068"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c039e56f-9a89-4f5a-a43f-e4109265978c",
+      "name": "Blue-Eyes Toon Dragon",
+      "passwords": [
+        "53183600"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "8dd2529f-6373-41b8-9c92-cfd5b9fab1bb",
+      "name": "Toon Summoned Skull",
+      "passwords": [
+        "91842653"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "08a448d7-6b56-40b5-ace1-aefa99785da7",
+      "name": "Manga Ryu-Ran",
+      "passwords": [
+        "38369349"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d0853637-e3d5-4457-a24c-64b4eefd4d0f",
+      "name": "Toon Mermaid",
+      "passwords": [
+        "65458948"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "59bdeb8e-a680-4940-befd-e6173faa0c0d",
+      "name": "Toon World",
+      "passwords": [
+        "15259703"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "74bf3b6a-ccdd-4612-b0c1-981b59db1671",
+      "name": "Black Pendant",
+      "passwords": [
+        "65169794"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0bae3885-838e-4d5d-88ac-108218510d12",
+      "name": "Dark Hole",
+      "passwords": [
+        "53129443"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "bdac3879-cdee-44cd-a47d-fca8388af25f",
+      "name": "Dian Keto the Cure Master",
+      "passwords": [
+        "84257640",
+        "84257639"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "967ebe38-3c90-4f10-822d-219430d22e94",
+      "name": "Fissure",
+      "passwords": [
+        "66788016"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6eec20dc-7a04-456f-8349-3e2beae0a586",
+      "name": "De-Spell",
+      "passwords": [
+        "19159413"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "368d3359-2498-4aca-b2f6-ea986d6f23d8",
+      "name": "Change of Heart",
+      "passwords": [
+        "04031928"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "baa316bc-33d1-4d67-aef4-4bdc1fc9e5fa",
+      "name": "Stop Defense",
+      "passwords": [
+        "63102017"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d15ea879-903e-481a-9ad1-774823a8518b",
+      "name": "Mystical Space Typhoon",
+      "passwords": [
+        "05318639"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0e0a131d-bc45-4bd7-a018-512733ebc1b6",
+      "name": "Rush Recklessly",
+      "passwords": [
+        "70046172"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c52cfe82-9749-4d0f-b674-fcd1b282c599",
+      "name": "Remove Trap",
+      "passwords": [
+        "51482758"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "08a59d85-df4c-4a8d-a9f6-b07dc21f58b0",
+      "name": "Monster Reborn",
+      "passwords": [
+        "83764719",
+        "83764718"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "b2f27f6a-600c-4273-a751-a7e7f2a5d99d",
+      "name": "Soul Release",
+      "passwords": [
+        "05758500"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2a232b42-239f-4f0d-91fe-9d052fe53ccd",
+      "name": "Yami",
+      "passwords": [
+        "59197169"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "9079fe0a-3c0a-4f6b-bfcc-d65746a8ecc2",
+      "name": "Black Illusion Ritual",
+      "passwords": [
+        "41426869"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1dac9769-158f-4d6f-89bf-1823b7b1a29d",
+      "name": "Ring of Magnetism",
+      "passwords": [
+        "20436034"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1feb78fd-c4b0-4ec9-88ee-e83415479d1e",
+      "name": "Graceful Charity",
+      "passwords": [
+        "79571449"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "37bca14b-fe1a-4018-ae53-bf9a58e7d02c",
+      "name": "Trap Hole",
+      "passwords": [
+        "04206964"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "81710c69-5147-452a-be6d-440ad96fe5cb",
+      "name": "Reinforcements",
+      "passwords": [
+        "17814387"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a3ae8af9-db58-407b-8130-b10ba9e1d27e",
+      "name": "Castle Walls",
+      "passwords": [
+        "44209392"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e40eabef-8f64-49b3-a827-e0959f1d8fb2",
+      "name": "Waboku",
+      "passwords": [
+        "12607053"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e6100e20-d56e-488a-96ad-1fed7d700f4a",
+      "name": "Seven Tools of the Bandit",
+      "passwords": [
+        "03819470"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "85c9ba59-8011-4f23-b02b-e44c1397f8cb",
+      "name": "Ultimate Offering",
+      "passwords": [
+        "80604092",
+        "80604091"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "3725bdb1-9d9a-40f8-9a04-c5005d4d9893",
+      "name": "Robbin' Goblin",
+      "passwords": [
+        "88279736"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "5bbafab3-2e4a-478f-ad1d-ed59c1c873fc",
+      "name": "Magic Jammer",
+      "passwords": [
+        "77414722"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "daa53363-d4df-4ffc-9442-4ca1290c798a",
+      "name": "Enchanted Javelin",
+      "passwords": [
+        "96355986"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "98f1e40a-7645-46e0-afbb-21f86e8a3f71",
+      "name": "Gryphon Wing",
+      "passwords": [
+        "55608151"
+      ],
+      "rarities": [
+        "super"
+      ]
+    }
+  ],
+  "slots": []
+}

@@ -2,8 +2,9 @@ const fs = require('fs');
 const path = require('path');
 const sqlite3 = require('sqlite3').verbose();
 
-const JSON_DIR = './jsons';
+const JSON_DIR = './import-boosters';
 const MASTER_DB = './cdbs/cards-master.cdb';
+const CDBS_DIR = './cdbs';
 const OUTPUT_DIR = './generated-cdbs';
 
 if (!fs.existsSync(OUTPUT_DIR)) {
@@ -28,6 +29,15 @@ function get(db, sql, params = []) {
     db.get(sql, params, (err, row) => {
       if (err) reject(err);
       else resolve(row);
+    });
+  });
+}
+
+function all(db, sql, params = []) {
+  return new Promise((resolve, reject) => {
+    db.all(sql, params, (err, rows) => {
+      if (err) reject(err);
+      else resolve(rows);
     });
   });
 }
@@ -62,8 +72,39 @@ async function createSchema(db) {
   `);
 }
 
+//Carrega TODAS as cartas já usadas dos CDBs antigos
+async function loadUsedCards() {
+  const used = new Set();
+
+  if (!fs.existsSync(CDBS_DIR)) return used;
+
+  const files = fs
+    .readdirSync(CDBS_DIR)
+    .filter(f => f.endsWith('.cdb') && f !== 'cards-master.cdb');
+
+  for (const file of files) {
+    const dbPath = path.join(CDBS_DIR, file);
+    const db = openDb(dbPath);
+
+    try {
+      const rows = await all(db, `SELECT id FROM datas`);
+      rows.forEach(row => used.add(row.id));
+    } catch (err) {
+      console.warn(`⚠️ Erro lendo ${file}:`, err.message);
+    }
+
+    db.close();
+  }
+
+  console.log(`📊 ${used.size} cartas já usadas carregadas dos CDBs antigos`);
+  return used;
+}
+
 async function main() {
   const masterDb = openDb(MASTER_DB);
+
+  //SET GLOBAL (histórico completo)
+  const globalUsed = await loadUsedCards();
 
   const files = fs
     .readdirSync(JSON_DIR)
@@ -95,7 +136,11 @@ async function main() {
     const inserted = new Set();
 
     for (const card of json.cards) {
+      //duplicata no mesmo JSON
       if (inserted.has(card.id)) continue;
+
+      //duplicata histórica (CDBs antigos + já gerados nessa execução)
+      if (globalUsed.has(card.id)) continue;
 
       const data = await get(masterDb, `SELECT * FROM datas WHERE id = ?`, [card.id]);
       const text = await get(masterDb, `SELECT * FROM texts WHERE id = ?`, [card.id]);
@@ -127,18 +172,18 @@ async function main() {
         text.id,
         text.name,
         text.desc,
-
         text.str1, text.str2, text.str3, text.str4,
         text.str5, text.str6, text.str7, text.str8,
         text.str9, text.str10, text.str11, text.str12,
         text.str13, text.str14, text.str15, text.str16
       ]);
 
+      //marca como usada
       inserted.add(card.id);
+      globalUsed.add(card.id);
     }
 
     await run(db, 'COMMIT');
-
     await run(db, `PRAGMA wal_checkpoint(FULL);`);
 
     db.close();

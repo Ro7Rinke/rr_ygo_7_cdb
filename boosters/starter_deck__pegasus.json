@@ -1,0 +1,262 @@
+{
+  "title": "Starter Deck: Pegasus",
+  "code": "BCSDP",
+  "price": 500,
+  "cash_type": "cash",
+  "prefix": "SDP-",
+  "type": "starter-deck",
+  "date": "2003-03-30",
+  "cards": [
+    {
+      "id": 64631466,
+      "name": "Relinquished",
+      "rarity": "UR"
+    },
+    {
+      "id": 65570596,
+      "name": "Red Archery Girl",
+      "rarity": "C"
+    },
+    {
+      "id": 2964201,
+      "name": "Ryu-Ran",
+      "rarity": "C"
+    },
+    {
+      "id": 28546905,
+      "name": "Illusionist Faceless Mage",
+      "rarity": "C"
+    },
+    {
+      "id": 91939608,
+      "name": "Rogue Doll",
+      "rarity": "C"
+    },
+    {
+      "id": 1784619,
+      "name": "Uraby",
+      "rarity": "C"
+    },
+    {
+      "id": 13039848,
+      "name": "Giant Soldier of Stone",
+      "rarity": "C"
+    },
+    {
+      "id": 85639257,
+      "name": "Aqua Madoor",
+      "rarity": "C"
+    },
+    {
+      "id": 59383041,
+      "name": "Toon Alligator",
+      "rarity": "C"
+    },
+    {
+      "id": 7089711,
+      "name": "Hane-Hane",
+      "rarity": "C"
+    },
+    {
+      "id": 57617178,
+      "name": "Sonic Bird",
+      "rarity": "C"
+    },
+    {
+      "id": 90020065,
+      "name": "Jigen Bakudan",
+      "rarity": "C"
+    },
+    {
+      "id": 28933734,
+      "name": "Mask of Darkness",
+      "rarity": "C"
+    },
+    {
+      "id": 78010363,
+      "name": "Witch of the Black Forest",
+      "rarity": "C"
+    },
+    {
+      "id": 54652250,
+      "name": "Man-Eater Bug",
+      "rarity": "C"
+    },
+    {
+      "id": 46657337,
+      "name": "Muka Muka",
+      "rarity": "C"
+    },
+    {
+      "id": 13215230,
+      "name": "Dream Clown",
+      "rarity": "C"
+    },
+    {
+      "id": 9076207,
+      "name": "Armed Ninja",
+      "rarity": "C"
+    },
+    {
+      "id": 81863068,
+      "name": "Hiro's Shadow Scout",
+      "rarity": "C"
+    },
+    {
+      "id": 53183600,
+      "name": "Blue-Eyes Toon Dragon",
+      "rarity": "C"
+    },
+    {
+      "id": 91842653,
+      "name": "Toon Summoned Skull",
+      "rarity": "C"
+    },
+    {
+      "id": 38369349,
+      "name": "Manga Ryu-Ran",
+      "rarity": "C"
+    },
+    {
+      "id": 65458948,
+      "name": "Toon Mermaid",
+      "rarity": "C"
+    },
+    {
+      "id": 15259703,
+      "name": "Toon World",
+      "rarity": "C"
+    },
+    {
+      "id": 65169794,
+      "name": "Black Pendant",
+      "rarity": "C"
+    },
+    {
+      "id": 53129443,
+      "name": "Dark Hole",
+      "rarity": "C"
+    },
+    {
+      "id": 84257639,
+      "name": "Dian Keto the Cure Master",
+      "rarity": "C"
+    },
+    {
+      "id": 66788016,
+      "name": "Fissure",
+      "rarity": "C"
+    },
+    {
+      "id": 19159413,
+      "name": "De-Spell",
+      "rarity": "C"
+    },
+    {
+      "id": 4031928,
+      "name": "Change of Heart",
+      "rarity": "C"
+    },
+    {
+      "id": 63102017,
+      "name": "Stop Defense",
+      "rarity": "C"
+    },
+    {
+      "id": 5318639,
+      "name": "Mystical Space Typhoon",
+      "rarity": "C"
+    },
+    {
+      "id": 70046172,
+      "name": "Rush Recklessly",
+      "rarity": "C"
+    },
+    {
+      "id": 51482758,
+      "name": "Remove Trap",
+      "rarity": "C"
+    },
+    {
+      "id": 83764718,
+      "name": "Monster Reborn",
+      "rarity": "C"
+    },
+    {
+      "id": 5758500,
+      "name": "Soul Release",
+      "rarity": "C"
+    },
+    {
+      "id": 59197169,
+      "name": "Yami",
+      "rarity": "C"
+    },
+    {
+      "id": 41426869,
+      "name": "Black Illusion Ritual",
+      "rarity": "C"
+    },
+    {
+      "id": 20436034,
+      "name": "Ring of Magnetism",
+      "rarity": "C"
+    },
+    {
+      "id": 79571449,
+      "name": "Graceful Charity",
+      "rarity": "SR"
+    },
+    {
+      "id": 4206964,
+      "name": "Trap Hole",
+      "rarity": "C"
+    },
+    {
+      "id": 17814387,
+      "name": "Reinforcements",
+      "rarity": "C"
+    },
+    {
+      "id": 44209392,
+      "name": "Castle Walls",
+      "rarity": "C"
+    },
+    {
+      "id": 12607053,
+      "name": "Waboku",
+      "rarity": "C"
+    },
+    {
+      "id": 3819470,
+      "name": "Seven Tools of the Bandit",
+      "rarity": "C"
+    },
+    {
+      "id": 80604091,
+      "name": "Ultimate Offering",
+      "rarity": "C"
+    },
+    {
+      "id": 88279736,
+      "name": "Robbin' Goblin",
+      "rarity": "C"
+    },
+    {
+      "id": 77414722,
+      "name": "Magic Jammer",
+      "rarity": "C"
+    },
+    {
+      "id": 96355986,
+      "name": "Enchanted Javelin",
+      "rarity": "C"
+    },
+    {
+      "id": 55608151,
+      "name": "Gryphon Wing",
+      "rarity": "SR"
+    }
+  ],
+  "slots": []
+}

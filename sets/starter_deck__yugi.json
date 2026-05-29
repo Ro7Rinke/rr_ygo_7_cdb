@@ -1,0 +1,515 @@
+{
+  "title": "Starter Deck: Yugi",
+  "prefix": "SDY-",
+  "type": null,
+  "date": "2002-03-29",
+  "cards": [
+    {
+      "id": "e8b3499e-9370-43a1-aa44-a9d4eaed4e8e",
+      "name": "Mystical Elf",
+      "passwords": [
+        "15025844"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "29fb0fc9-2a2e-46d5-b4f7-cbf1e236a353",
+      "name": "Feral Imp",
+      "passwords": [
+        "41392891"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "095d4c1e-d7b0-4e56-a77d-e04842f2d1e7",
+      "name": "Winged Dragon, Guardian of the Fortress #1",
+      "passwords": [
+        "87796900"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a0265517-063f-4ffa-8b4e-31acd1512992",
+      "name": "Summoned Skull",
+      "passwords": [
+        "70781052"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "11fad113-2680-40bf-ad24-bafef9f44ea6",
+      "name": "Beaver Warrior",
+      "passwords": [
+        "32452818"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c0285d04-cadd-402d-a865-799a182d7510",
+      "name": "Dark Magician",
+      "passwords": [
+        "46986414",
+        "36996508",
+        "46986421",
+        "46986420"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "e5f94e33-d990-44e5-9615-6b9f6514f263",
+      "name": "Gaia The Fierce Knight",
+      "passwords": [
+        "06368038"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "680c4061-57b9-4117-98c3-0f637c491742",
+      "name": "Curse of Dragon",
+      "passwords": [
+        "28279543"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e003193d-d3f4-46ed-b9c7-c4e0cc9ad559",
+      "name": "Celtic Guardian",
+      "passwords": [
+        "91152256"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "37dfcf32-59b3-43b4-a257-6bab862ad0c9",
+      "name": "Mammoth Graveyard",
+      "passwords": [
+        "40374923"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "bab03ded-ecb0-40cb-ae34-fa5ae523b599",
+      "name": "Great White",
+      "passwords": [
+        "13429800"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e899f8c2-c7e8-47b6-9fb6-ec0650bfbdfc",
+      "name": "Silver Fang",
+      "passwords": [
+        "90357090"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "26005535-d60f-4b75-9329-e5bcd1ba43b8",
+      "name": "Giant Soldier of Stone",
+      "passwords": [
+        "13039848"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1293a5af-152c-495e-9ed1-c090b6f1c782",
+      "name": "Dragon Zombie",
+      "passwords": [
+        "66672569"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "bdd3fe1d-e340-489a-b292-d05b736397fd",
+      "name": "Doma The Angel of Silence",
+      "passwords": [
+        "16972957"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "3f1d0fe1-1de6-46fb-8783-ae1eff0def7b",
+      "name": "Ansatsu",
+      "passwords": [
+        "48365709"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a42ceacc-6768-4d02-98f0-ce4541be0e48",
+      "name": "Witty Phantom",
+      "passwords": [
+        "36304921"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "fcb0711a-0d49-4367-ab4b-2be49b6062d7",
+      "name": "Claw Reacher",
+      "passwords": [
+        "41218256"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "4fdd58c8-b8c4-4e5d-89ae-04a768f37600",
+      "name": "Mystic Clown",
+      "passwords": [
+        "47060154"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a56db778-aedd-43ae-87b2-865712190991",
+      "name": "Sword of Dark Destruction",
+      "passwords": [
+        "37120512"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f8e9413b-8d05-49cc-9599-bb28f2b8ee51",
+      "name": "Book of Secret Arts",
+      "passwords": [
+        "91595718"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0bae3885-838e-4d5d-88ac-108218510d12",
+      "name": "Dark Hole",
+      "passwords": [
+        "53129443"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "bdac3879-cdee-44cd-a47d-fca8388af25f",
+      "name": "Dian Keto the Cure Master",
+      "passwords": [
+        "84257640",
+        "84257639"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "477a896a-6ce8-4815-a1b4-473a60c6e4d1",
+      "name": "Ancient Elf",
+      "passwords": [
+        "93221206"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a0d3ca8f-35a1-4a3f-9fd6-0e24db0f7f55",
+      "name": "Magical Ghost",
+      "passwords": [
+        "46474915"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "967ebe38-3c90-4f10-822d-219430d22e94",
+      "name": "Fissure",
+      "passwords": [
+        "66788016"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "37bca14b-fe1a-4018-ae53-bf9a58e7d02c",
+      "name": "Trap Hole",
+      "passwords": [
+        "04206964"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "cc9b4ddf-32ed-4a7b-96a2-d1e07cdb647b",
+      "name": "Two-Pronged Attack",
+      "passwords": [
+        "83887306"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6eec20dc-7a04-456f-8349-3e2beae0a586",
+      "name": "De-Spell",
+      "passwords": [
+        "19159413"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "08a59d85-df4c-4a8d-a9f6-b07dc21f58b0",
+      "name": "Monster Reborn",
+      "passwords": [
+        "83764719",
+        "83764718"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "81710c69-5147-452a-be6d-440ad96fe5cb",
+      "name": "Reinforcements",
+      "passwords": [
+        "17814387"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "368d3359-2498-4aca-b2f6-ea986d6f23d8",
+      "name": "Change of Heart",
+      "passwords": [
+        "04031928"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "812fc9eb-02ac-494f-81c1-2f45bc059275",
+      "name": "The Stern Mystic",
+      "passwords": [
+        "87557188"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d09c37c0-6623-4fb7-8a1c-70b5989d854a",
+      "name": "Wall of Illusion",
+      "passwords": [
+        "13945283"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f394d2a1-e71e-4d59-acb5-44add2e12249",
+      "name": "Neo the Magic Swordsman",
+      "passwords": [
+        "50930991"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2db5f30a-154d-40af-b9f5-1cfca7428bd9",
+      "name": "Baron of the Fiend Sword",
+      "passwords": [
+        "86325596"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "aa89fa27-ce9a-483e-9b08-52d81b215f58",
+      "name": "Man-Eating Treasure Chest",
+      "passwords": [
+        "13723605"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "16c6ce48-d1f4-4bea-a007-3469da8d50a6",
+      "name": "Sorcerer of the Doomed",
+      "passwords": [
+        "49218300"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "ec068dca-3b00-40f9-bc7b-e3ab8049680e",
+      "name": "Last Will",
+      "passwords": [
+        "85602018"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e40eabef-8f64-49b3-a827-e0959f1d8fb2",
+      "name": "Waboku",
+      "passwords": [
+        "12607053"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "80446784-e5db-444e-93ed-b4fc934eff29",
+      "name": "Soul Exchange",
+      "passwords": [
+        "68005187"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "2dc53daa-65da-448b-905d-1dbf7f0b2d8e",
+      "name": "Card Destruction",
+      "passwords": [
+        "72892473"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "dd5c07c6-3d0b-4961-971d-530d62ce6671",
+      "name": "Trap Master",
+      "passwords": [
+        "46461247"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "075d9779-44be-4ecd-98f9-cbdb5f5032ad",
+      "name": "Dragon Capture Jar",
+      "passwords": [
+        "50045299"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2a232b42-239f-4f0d-91fe-9d052fe53ccd",
+      "name": "Yami",
+      "passwords": [
+        "59197169"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "b7f2e06b-4996-4c39-8958-63d93da1769f",
+      "name": "Man-Eater Bug",
+      "passwords": [
+        "54652250"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "7dce5f1a-39c9-4a85-a8e4-0fe1c2781c40",
+      "name": "Reverse Trap",
+      "passwords": [
+        "77622396"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c52cfe82-9749-4d0f-b674-fcd1b282c599",
+      "name": "Remove Trap",
+      "passwords": [
+        "51482758"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a3ae8af9-db58-407b-8130-b10ba9e1d27e",
+      "name": "Castle Walls",
+      "passwords": [
+        "44209392"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "85c9ba59-8011-4f23-b02b-e44c1397f8cb",
+      "name": "Ultimate Offering",
+      "passwords": [
+        "80604092",
+        "80604091"
+      ],
+      "rarities": [
+        "common"
+      ]
+    }
+  ],
+  "slots": []
+}

@@ -1,0 +1,515 @@
+{
+  "title": "Starter Deck: Joey",
+  "prefix": "SDJ-",
+  "type": null,
+  "date": "2003-03-30",
+  "cards": [
+    {
+      "id": "bc4ce584-7451-4d5b-8d25-2557632e4be5",
+      "name": "Red-Eyes Black Dragon",
+      "passwords": [
+        "74677422",
+        "74677427"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "41094d11-fe36-4633-a973-0275ee6ec475",
+      "name": "Swordsman of Landstar",
+      "passwords": [
+        "03573512"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a906d7cf-e2a6-4f21-b7d6-7e6b72794a09",
+      "name": "Baby Dragon",
+      "passwords": [
+        "88819587"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f6270573-079c-4b38-b9c8-2782b701c206",
+      "name": "Spirit of the Harp",
+      "passwords": [
+        "80770678"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "513b3326-8141-4a17-b826-31700b1367fd",
+      "name": "Island Turtle",
+      "passwords": [
+        "04042268"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "013e6bd6-d197-45c7-b3a3-7292d96b4faf",
+      "name": "Flame Manipulator",
+      "passwords": [
+        "34460851"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "449a8b35-c5a0-4f8f-a41c-7f7efb8bf636",
+      "name": "Masaki the Legendary Swordsman",
+      "passwords": [
+        "44287299"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d9f2ad84-edbf-4d46-9427-f14dac5c85ab",
+      "name": "7 Colored Fish",
+      "passwords": [
+        "23771716"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "55f44aa2-39d7-4212-ada9-1b1351662341",
+      "name": "Armored Lizard",
+      "passwords": [
+        "15480588"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e895ad1b-4e6d-4681-9bf7-39b7119ef66f",
+      "name": "Darkfire Soldier #1",
+      "passwords": [
+        "05388481"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "897078eb-55d5-46be-87be-6b17f5a152f4",
+      "name": "Sky Scout",
+      "passwords": [
+        "30532390"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "31f4fba9-8c7e-42ae-834a-4b6ff3c452c6",
+      "name": "Gearfried the Iron Knight",
+      "passwords": [
+        "00423705"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "805e8628-8b04-424b-b9f5-e8b0ab594e57",
+      "name": "Karate Man",
+      "passwords": [
+        "23289281"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "4e9a55fa-8e0d-428a-8d7a-75172f0ccc1f",
+      "name": "Milus Radiant",
+      "passwords": [
+        "07489323"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1e483af1-e05f-4698-9ad2-62e5cd7f3b78",
+      "name": "Time Wizard",
+      "passwords": [
+        "71625222"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d979497d-2762-41db-ad51-c79c14e99f4c",
+      "name": "Maha Vailo",
+      "passwords": [
+        "93013676"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2fcf077e-ebd0-447a-8802-b47c309d3708",
+      "name": "Magician of Faith",
+      "passwords": [
+        "31560081"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d0f91779-3d50-43ac-9fd4-3046f336def2",
+      "name": "Big Eye",
+      "passwords": [
+        "16768387"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "431a6148-ab71-445d-bb82-a18d339701e5",
+      "name": "Sangan",
+      "passwords": [
+        "26202165"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "9ccef837-49ba-4ea6-8d15-131bdb63ee28",
+      "name": "Princess of Tsurugi",
+      "passwords": [
+        "51371017"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "3f53b1e9-c821-45f3-8427-3ce4a951fe37",
+      "name": "White Magical Hat",
+      "passwords": [
+        "15150365"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f6eefd0a-c8d3-4e89-8be8-db0c2acc68be",
+      "name": "Penguin Soldier",
+      "passwords": [
+        "93920745"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "c3675f97-306a-4f73-bef5-a00987697717",
+      "name": "Thousand Dragon",
+      "passwords": [
+        "41462083"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "784af30a-cbda-498e-8fa0-2b97a1495436",
+      "name": "Flame Swordsman",
+      "passwords": [
+        "45231177",
+        "45231178"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a0d031f5-1b62-4e7d-b510-d5c6d601e6d4",
+      "name": "Malevolent Nuzzler",
+      "passwords": [
+        "99597615"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0bae3885-838e-4d5d-88ac-108218510d12",
+      "name": "Dark Hole",
+      "passwords": [
+        "53129443"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "bdac3879-cdee-44cd-a47d-fca8388af25f",
+      "name": "Dian Keto the Cure Master",
+      "passwords": [
+        "84257640",
+        "84257639"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "967ebe38-3c90-4f10-822d-219430d22e94",
+      "name": "Fissure",
+      "passwords": [
+        "66788016"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6eec20dc-7a04-456f-8349-3e2beae0a586",
+      "name": "De-Spell",
+      "passwords": [
+        "19159413"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "368d3359-2498-4aca-b2f6-ea986d6f23d8",
+      "name": "Change of Heart",
+      "passwords": [
+        "04031928"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "322864d3-485f-4967-aca9-e40002815e28",
+      "name": "Block Attack",
+      "passwords": [
+        "25880422"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "b5ea9957-75b9-4c50-85e1-c4f96d3ea806",
+      "name": "Giant Trunade",
+      "passwords": [
+        "42703248"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "96244cfa-4651-416b-bd7e-8cfb5d6896bf",
+      "name": "The Reliable Guardian",
+      "passwords": [
+        "16430187"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c52cfe82-9749-4d0f-b674-fcd1b282c599",
+      "name": "Remove Trap",
+      "passwords": [
+        "51482758"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "08a59d85-df4c-4a8d-a9f6-b07dc21f58b0",
+      "name": "Monster Reborn",
+      "passwords": [
+        "83764719",
+        "83764718"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6e2e39c1-e5b2-4070-aff4-ee935a14a83e",
+      "name": "Polymerization",
+      "passwords": [
+        "24094653",
+        "27847700"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6cd1fb0f-214d-4f27-8b9f-7d0a9439d6e3",
+      "name": "Mountain",
+      "passwords": [
+        "50913601"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "dfe00223-3802-4233-9949-9e5dbdd1b3c0",
+      "name": "Dragon Treasure",
+      "passwords": [
+        "01435851"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2af71b41-11eb-4506-9493-5c2ad9605c9c",
+      "name": "Eternal Rest",
+      "passwords": [
+        "95051344"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d4e72804-caff-4eab-86fd-cba77810bfab",
+      "name": "Shield & Sword",
+      "passwords": [
+        "52097679"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "2936d7e9-7c26-4dd4-a2e1-03f2746d6439",
+      "name": "Scapegoat",
+      "passwords": [
+        "73915051"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "ef99d113-5aa4-4781-90de-4a516972179d",
+      "name": "Just Desserts",
+      "passwords": [
+        "24068492"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "37bca14b-fe1a-4018-ae53-bf9a58e7d02c",
+      "name": "Trap Hole",
+      "passwords": [
+        "04206964"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "81710c69-5147-452a-be6d-440ad96fe5cb",
+      "name": "Reinforcements",
+      "passwords": [
+        "17814387"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a3ae8af9-db58-407b-8130-b10ba9e1d27e",
+      "name": "Castle Walls",
+      "passwords": [
+        "44209392"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e40eabef-8f64-49b3-a827-e0959f1d8fb2",
+      "name": "Waboku",
+      "passwords": [
+        "12607053"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "85c9ba59-8011-4f23-b02b-e44c1397f8cb",
+      "name": "Ultimate Offering",
+      "passwords": [
+        "80604092",
+        "80604091"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e6100e20-d56e-488a-96ad-1fed7d700f4a",
+      "name": "Seven Tools of the Bandit",
+      "passwords": [
+        "03819470"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c20eda92-f1ef-4270-a8d8-fb54ea07bb8e",
+      "name": "Fake Trap",
+      "passwords": [
+        "03027001"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "7dce5f1a-39c9-4a85-a8e4-0fe1c2781c40",
+      "name": "Reverse Trap",
+      "passwords": [
+        "77622396"
+      ],
+      "rarities": [
+        "common"
+      ]
+    }
+  ],
+  "slots": []
+}

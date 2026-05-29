@@ -1,0 +1,511 @@
+{
+  "title": "Starter Deck: Kaiba",
+  "prefix": "SDK-",
+  "type": null,
+  "date": "2002-03-29",
+  "cards": [
+    {
+      "id": "e0404755-1ade-4c7c-9a2a-b29b7755d860",
+      "name": "Blue-Eyes White Dragon",
+      "passwords": [
+        "89631139"
+      ],
+      "rarities": [
+        "ultra"
+      ]
+    },
+    {
+      "id": "6bfc3150-6122-461d-9d7c-d05ed9b940d0",
+      "name": "Hitotsu-Me Giant",
+      "passwords": [
+        "76184692"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c0da4b99-aa00-45b9-8b1f-99b00166d8b6",
+      "name": "Ryu-Kishin",
+      "passwords": [
+        "15303296"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e1f0226d-4e5f-4b6f-8e6d-d2decc914a56",
+      "name": "The Wicked Worm Beast",
+      "passwords": [
+        "06285791"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c1dda3fd-e5fb-4fac-9f10-96b1fdf525cd",
+      "name": "Battle Ox",
+      "passwords": [
+        "05053103"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e7f3cd7f-f536-412c-935d-0b9dee4e12ca",
+      "name": "Koumori Dragon",
+      "passwords": [
+        "67724379"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "ecb7223b-ff89-4fa4-abed-4a3415006892",
+      "name": "Judge Man",
+      "passwords": [
+        "30113682"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "4c90e565-7ace-408e-9609-304b630c8c11",
+      "name": "Rogue Doll",
+      "passwords": [
+        "91939608"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a15568d8-0367-4245-9656-042b637b360a",
+      "name": "Kojikocy",
+      "passwords": [
+        "01184620"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0de6b15f-4d3f-4fbf-b9d1-3f735eed3777",
+      "name": "Uraby",
+      "passwords": [
+        "01784619"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a0ed8c60-072e-459f-8a5b-d8ba027abd8a",
+      "name": "Gyakutenno Megami",
+      "passwords": [
+        "31122090"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d92d01e0-7091-48c0-8051-2905048fe9f9",
+      "name": "Mystic Horseman",
+      "passwords": [
+        "68516705"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e8746d07-56cc-47a7-b866-caf020e1290e",
+      "name": "Terra the Terrible",
+      "passwords": [
+        "63308047"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0027e707-a1ca-4986-bdc9-8d8ea1e3f00b",
+      "name": "Dark Titan of Terror",
+      "passwords": [
+        "89494469"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "cc20370d-3a56-48a1-b9ce-ce43be692252",
+      "name": "Dark Assailant",
+      "passwords": [
+        "41949033"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "1d7ce1e5-4fee-420d-9d68-beca49b0f5a0",
+      "name": "Master & Expert",
+      "passwords": [
+        "75499502"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "e2f3fe83-0653-45c8-97c9-0ce349580066",
+      "name": "Unknown Warrior of Fiend",
+      "passwords": [
+        "97360116"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "4fdd58c8-b8c4-4e5d-89ae-04a768f37600",
+      "name": "Mystic Clown",
+      "passwords": [
+        "47060154"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "dbc104e1-e84c-4014-a922-5ccb51e44923",
+      "name": "Ogre of the Black Shadow",
+      "passwords": [
+        "45121025"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "162d5bfb-dbe2-4363-972a-101ddcc7fd7f",
+      "name": "Dark Energy",
+      "passwords": [
+        "04614116"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "551b7e31-bc6b-4b48-8a5a-f3343e9fff8b",
+      "name": "Invigoration",
+      "passwords": [
+        "98374133"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0bae3885-838e-4d5d-88ac-108218510d12",
+      "name": "Dark Hole",
+      "passwords": [
+        "53129443"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c49bd456-9bad-4508-b9aa-2bf9939f91dc",
+      "name": "Ookazi",
+      "passwords": [
+        "19523799"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "267befc8-710e-43b7-832d-b68cb86f69f4",
+      "name": "Ryu-Kishin Powered",
+      "passwords": [
+        "24611934"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0b77e2b3-ed04-4d26-bc6d-2a8a73a984bc",
+      "name": "Swordstalker",
+      "passwords": [
+        "50005633"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "57d5d30f-8688-4746-b8fb-430fe4c1618a",
+      "name": "La Jinn the Mystical Genie of the Lamp",
+      "passwords": [
+        "97590747"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "f9b1855a-1ec1-4761-90ad-84ba066d738c",
+      "name": "Rude Kaiser",
+      "passwords": [
+        "26378150"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "d4a8dc71-cf48-4ef3-bbcc-3310ec9a2e85",
+      "name": "Destroyer Golem",
+      "passwords": [
+        "73481154"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "cf90f686-2886-4d3e-8235-8f33d394d4c6",
+      "name": "Skull Red Bird",
+      "passwords": [
+        "10202894"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "fb62b2b0-101f-4556-a9ba-0700b47f00b3",
+      "name": "D. Human",
+      "passwords": [
+        "81057959"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "b91bd8f9-23ef-4e03-af5e-a5f464627411",
+      "name": "Pale Beast",
+      "passwords": [
+        "21263083"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "967ebe38-3c90-4f10-822d-219430d22e94",
+      "name": "Fissure",
+      "passwords": [
+        "66788016"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "37bca14b-fe1a-4018-ae53-bf9a58e7d02c",
+      "name": "Trap Hole",
+      "passwords": [
+        "04206964"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "cc9b4ddf-32ed-4a7b-96a2-d1e07cdb647b",
+      "name": "Two-Pronged Attack",
+      "passwords": [
+        "83887306"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6eec20dc-7a04-456f-8349-3e2beae0a586",
+      "name": "De-Spell",
+      "passwords": [
+        "19159413"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "08a59d85-df4c-4a8d-a9f6-b07dc21f58b0",
+      "name": "Monster Reborn",
+      "passwords": [
+        "83764719",
+        "83764718"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "6b73bf33-0d00-40bf-b890-cdc00cbaf0fa",
+      "name": "The Inexperienced Spy",
+      "passwords": [
+        "81820689"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "81710c69-5147-452a-be6d-440ad96fe5cb",
+      "name": "Reinforcements",
+      "passwords": [
+        "17814387"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "220f2cb6-ce38-42a3-a19a-a206ab06d068",
+      "name": "Ancient Telescope",
+      "passwords": [
+        "17092736"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "ef99d113-5aa4-4781-90de-4a516972179d",
+      "name": "Just Desserts",
+      "passwords": [
+        "24068492"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c46898c0-1ddf-404a-bcfc-47c81b693958",
+      "name": "Lord of D.",
+      "passwords": [
+        "17985575"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "8ee7f6c3-8a35-4cb3-8f37-3e5d4ef8def5",
+      "name": "The Flute of Summoning Dragon",
+      "passwords": [
+        "43973174"
+      ],
+      "rarities": [
+        "super"
+      ]
+    },
+    {
+      "id": "15fc7a8c-6ae0-4366-a4da-44f2ef29ca5a",
+      "name": "Mysterious Puppeteer",
+      "passwords": [
+        "54098121"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "dd5c07c6-3d0b-4961-971d-530d62ce6671",
+      "name": "Trap Master",
+      "passwords": [
+        "46461247"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "0fd410a2-33fc-4374-acb6-c0ab8efe4d2b",
+      "name": "Sogen",
+      "passwords": [
+        "86318356"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "7fbc81c5-7d85-439c-9d23-5c3be08d5a6f",
+      "name": "Hane-Hane",
+      "passwords": [
+        "07089711"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "7dce5f1a-39c9-4a85-a8e4-0fe1c2781c40",
+      "name": "Reverse Trap",
+      "passwords": [
+        "77622396"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "c52cfe82-9749-4d0f-b674-fcd1b282c599",
+      "name": "Remove Trap",
+      "passwords": [
+        "51482758"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "a3ae8af9-db58-407b-8130-b10ba9e1d27e",
+      "name": "Castle Walls",
+      "passwords": [
+        "44209392"
+      ],
+      "rarities": [
+        "common"
+      ]
+    },
+    {
+      "id": "85c9ba59-8011-4f23-b02b-e44c1397f8cb",
+      "name": "Ultimate Offering",
+      "passwords": [
+        "80604092",
+        "80604091"
+      ],
+      "rarities": [
+        "common"
+      ]
+    }
+  ],
+  "slots": []
+}
