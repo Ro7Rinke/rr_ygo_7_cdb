@@ -126,8 +126,8 @@ async function main() {
     console.log(`\n📦 Gerando CDB: ${file.file}`);
 
     const json = JSON.parse(fs.readFileSync(file.path, 'utf-8'));
-
-    const outputPath = path.join(OUTPUT_DIR, `${json.title}.cdb`);
+    const cdb_name = `rrygo7-${json.code.toLowerCase()}.cdb`
+    const outputPath = path.join(OUTPUT_DIR, cdb_name);
     const db = openDb(outputPath);
 
     await createSchema(db);
