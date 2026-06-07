@@ -1,0 +1,368 @@
+{
+    "title": "Booster Collection Extra 1",
+    "code": "BCE-1",
+    "price": 5,
+    "cash_type": "tickets",
+    "prefix": "BCE1",
+    "type": "booster-extra",
+    "date": "2026-06-07",
+    "cards": [
+        {
+            "name": "Ancient Gear Gadjiltron Dragon",
+            "id": 50933533,
+            "rarity": "CR"
+        },
+        {
+            "name": "Kozmo Dark Destroyer",
+            "id": 55885348,
+            "rarity": "CR"
+        },
+        {
+            "name": "Blaster, Dragon Ruler of Infernos",
+            "id": 53804307,
+            "rarity": "CR"
+        },
+        {
+            "name": "Gorz the Emissary of Darkness",
+            "id": 44330098,
+            "rarity": "CR"
+        },
+        {
+            "name": "Tidal, Dragon Ruler of Waterfalls",
+            "id": 26400609,
+            "rarity": "CR"
+        },
+        {
+            "name": "Tempest, Dragon Ruler of Storms",
+            "id": 89399912,
+            "rarity": "CR"
+        },
+        {
+            "name": "Redox, Dragon Ruler of Boulders",
+            "id": 90411554,
+            "rarity": "CR"
+        },
+        {
+            "name": "Gravity Behemoth",
+            "id": 56931015,
+            "rarity": "CR"
+        },
+        {
+            "name": "Kozmo DOG Fighter",
+            "id": 29491334,
+            "rarity": "CR"
+        },
+        {
+            "name": "Kozmo Sliprider",
+            "id": 94454495,
+            "rarity": "CR"
+        },
+        {
+            "name": "Kozmoll Dark Lady",
+            "id": 12408276,
+            "rarity": "CR"
+        },
+        {
+            "name": "Artifact Moralltach",
+            "id": 85103922,
+            "rarity": "CR"
+        },
+        {
+            "name": "Dododo Bot",
+            "id": 19700943,
+            "rarity": "CR"
+        },
+        {
+            "name": "Aye-Iron",
+            "id": 42969214,
+            "rarity": "CR"
+        },
+        {
+            "name": "Blackwing - Zephyros the Elite",
+            "id": 14785765,
+            "rarity": "CR"
+        },
+        {
+            "name": "Fire Hand",
+            "id": 68535320,
+            "rarity": "CR"
+        },
+        {
+            "name": "Gagaga Gardna",
+            "id": 12423762,
+            "rarity": "CR"
+        },
+        {
+            "name": "Ice Hand",
+            "id": 95929069,
+            "rarity": "CR"
+        },
+        {
+            "name": "Skilled Brown Magician",
+            "id": 88232397,
+            "rarity": "CR"
+        },
+        {
+            "name": "Rescue Rabbit",
+            "id": 85138716,
+            "rarity": "CR"
+        },
+        {
+            "name": "Battlin' Boxer Veil",
+            "id": 13313278,
+            "rarity": "CR"
+        },
+        {
+            "name": "Libic, Malebranche of the Burning Abyss",
+            "id": 62957424,
+            "rarity": "CR"
+        },
+        {
+            "name": "Dark Resonator",
+            "id": 97021916,
+            "rarity": "CR"
+        },
+        {
+            "name": "Clock Resonator",
+            "id": 77087109,
+            "rarity": "CR"
+        },
+        {
+            "name": "Graff, Malebranche of the Burning Abyss",
+            "id": 20758643,
+            "rarity": "CR"
+        },
+        {
+            "name": "Archfiend Eccentrick",
+            "id": 57624336,
+            "rarity": "CR"
+        },
+        {
+            "name": "Battlin' Boxer Rabbit Puncher",
+            "id": 61679541,
+            "rarity": "CR"
+        },
+        {
+            "name": "Marshmallon",
+            "id": 31305911,
+            "rarity": "CR"
+        },
+        {
+            "name": "Red Resonator",
+            "id": 40975574,
+            "rarity": "CR"
+        },
+        {
+            "name": "Iron Blacksmith Kotetsu",
+            "id": 73431236,
+            "rarity": "CR"
+        },
+        {
+            "name": "Treeborn Frog",
+            "id": 12538374,
+            "rarity": "CR"
+        },
+        {
+            "name": "Scapeghost",
+            "id": 67284107,
+            "rarity": "CR"
+        },
+        {
+            "name": "Effect Veiler",
+            "id": 97268403,
+            "rarity": "CR"
+        },
+        {
+            "name": "One Day of Peace",
+            "id": 33782437,
+            "rarity": "CR"
+        },
+        {
+            "name": "Pot of Desires",
+            "id": 35261759,
+            "rarity": "CR"
+        },
+        {
+            "name": "Pot of Extravagance",
+            "id": 49238328,
+            "rarity": "CR"
+        },
+        {
+            "name": "Dark World Dealings",
+            "id": 74117290,
+            "rarity": "CR"
+        },
+        {
+            "name": "Pot of Dichotomy",
+            "id": 98672567,
+            "rarity": "CR"
+        },
+        {
+            "name": "Forbidden Chalice",
+            "id": 25789292,
+            "rarity": "CR"
+        },
+        {
+            "name": "Forbidden Lance",
+            "id": 27243130,
+            "rarity": "CR"
+        },
+        {
+            "name": "Twin Twisters",
+            "id": 43898403,
+            "rarity": "CR"
+        },
+        {
+            "name": "Forbidden Scripture",
+            "id": 54773234,
+            "rarity": "CR"
+        },
+        {
+            "name": "The Monarchs Stormforth",
+            "id": 79844764,
+            "rarity": "CR"
+        },
+        {
+            "name": "Forbidden Dress",
+            "id": 96864811,
+            "rarity": "CR"
+        },
+        {
+            "name": "Forbidden Crown",
+            "id": 98829635,
+            "rarity": "CR"
+        },
+        {
+            "name": "Supply Squad",
+            "id": 17626381,
+            "rarity": "CR"
+        },
+        {
+            "name": "Kaiser Colosseum",
+            "id": 35059553,
+            "rarity": "CR"
+        },
+        {
+            "name": "Cursed Armaments",
+            "id": 98867329,
+            "rarity": "CR"
+        },
+        {
+            "name": "The Seal of Orichalcos",
+            "id": 48179391,
+            "rarity": "CR"
+        },
+        {
+            "name": "Chicken Game",
+            "id": 67616300,
+            "rarity": "CR"
+        },
+        {
+            "name": "Domain of the True Monarchs",
+            "id": 84171830,
+            "rarity": "CR"
+        },
+        {
+            "name": "Chain Destruction",
+            "id": 1248895,
+            "rarity": "CR"
+        },
+        {
+            "name": "Really Eternal Rest",
+            "id": 28121403,
+            "rarity": "CR"
+        },
+        {
+            "name": "Ballista Squad",
+            "id": 80584548,
+            "rarity": "CR"
+        },
+        {
+            "name": "Royal Oppression",
+            "id": 93016201,
+            "rarity": "CR"
+        },
+        {
+            "name": "Solemn Strike",
+            "id": 40605147,
+            "rarity": "CR"
+        },
+        {
+            "name": "Number 85: Crazy Box",
+            "id": 42421606,
+            "rarity": "CR"
+        },
+        {
+            "name": "Number 17: Leviathan Dragon",
+            "id": 69610924,
+            "rarity": "CR"
+        },
+        {
+            "name": "Sorcerer of Sebek",
+            "id": 39767432,
+            "rarity": "CR"
+        },
+        {
+            "name": "Link Spider",
+            "id": 98978921,
+            "rarity": "CR"
+        }
+    ],
+    "slots": [
+        {
+            "position": 1,
+            "unit_value": 1,
+            "groups": [
+                {
+                    "min_rarity_level": 0,
+                    "max_rarity_level": 999,
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "position": 2,
+            "unit_value": 1,
+            "groups": [
+                {
+                    "min_rarity_level": 0,
+                    "max_rarity_level": 999,
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "position": 3,
+            "unit_value": 1,
+            "groups": [
+                {
+                    "min_rarity_level": 0,
+                    "max_rarity_level": 999,
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "position": 4,
+            "unit_value": 1,
+            "groups": [
+                {
+                    "min_rarity_level": 0,
+                    "max_rarity_level": 999,
+                    "chance": 100
+                }
+            ]
+        },
+        {
+            "position": 5,
+            "unit_value": 1,
+            "groups": [
+                {
+                    "min_rarity_level": 0,
+                    "max_rarity_level": 999,
+                    "chance": 100
+                }
+            ]
+        }
+    ]
+}
