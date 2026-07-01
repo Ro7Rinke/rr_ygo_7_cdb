@@ -1,8 +1,8 @@
 {
   "title": "Starter Deck: Kaiba",
   "code": "BCSDK",
-  "price": 500,
-  "cash_type": "cash",
+  "price": 5,
+  "cash_type": "gold_tickets",
   "prefix": "SDK-",
   "type": "starter-deck",
   "date": "2002-03-29",

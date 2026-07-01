@@ -4,8 +4,8 @@ const path = require('path');
 const BASE_PATH = './data/individual';
 
 // configs
-const TARGET_LOCALE = 'na';
-const TARGET_PREFIXES = ['SDY-', 'SDK-', 'SDJ-'];
+const TARGET_LOCALE = 'en';
+const TARGET_PREFIXES = ['LOB-EN'];
 
 // paths
 const SETS_INDEX = `${BASE_PATH}/sets.json`;
@@ -64,17 +64,20 @@ function buildSet(setData, localeData) {
         for (const entry of content.cards || []) {
             const cardId = entry.card;
             const rarity = entry.rarity;
+            const qty = entry.qty !== undefined ? Number(entry.qty) : 1;
 
             if (!cardsMap[cardId]) {
                 cardsMap[cardId] = {
                     id: cardId,
                     name: cardMap[cardId]?.name || "UNKNOWN",
                     passwords: cardMap[cardId]?.passwords || [],
-                    rarities: new Set()
+                    rarities: new Set(),
+                    amount: 0
                 };
             }
 
             cardsMap[cardId].rarities.add(rarity);
+            cardsMap[cardId].amount += qty;
         }
     }
 
@@ -104,7 +107,8 @@ function buildSet(setData, localeData) {
             id: c.id,
             name: c.name,
             passwords: c.passwords,
-            rarities: Array.from(c.rarities)
+            rarities: Array.from(c.rarities),
+            amount: c.amount
         })),
         slots
     };
@@ -151,6 +155,7 @@ function main() {
         console.log(
             `✅ ${matched} match | 📦 ${processed}/${total} processed | ${result.title}`
         );
+        console.log(setId)
     }
 
     console.log(`\n🎯 FINAL: ${matched} sets gerados de ${total}`);
