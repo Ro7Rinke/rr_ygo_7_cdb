@@ -5,7 +5,7 @@ const BASE_PATH = './data/individual';
 
 // configs
 const TARGET_LOCALE = 'en';
-const TARGET_PREFIXES = ['LOB-EN'];
+const TARGET_PREFIXES = ['MRD-EN'];
 
 // paths
 const SETS_INDEX = `${BASE_PATH}/sets.json`;
